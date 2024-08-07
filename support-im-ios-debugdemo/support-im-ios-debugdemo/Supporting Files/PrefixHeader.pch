@@ -1,0 +1,46 @@
+//
+//  PrefixHeader.pch
+//  support-im-ios-debugdemo
+//
+//  Created by 于艳平 on 2022/7/11.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#import <RongIMKit/RongIMKit.h>
+#import <SVProgressHUD.h>
+#import <IQKeyboardManager.h>
+#import "AppGlobalConfig.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+#import <Masonry/Masonry.h>
+
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+
+#define SDRGBColor(r,g,b) [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:1]
+#define SDRGBAColor(r,g,b,a) [UIColor colorWithRed:(r)/255.0f green:(g)/255.0f blue:(b)/255.0f alpha:(a)]
+#define SDRGB16Color(rgbValue) [UIColor colorWithRed:((float)((rgbValue & 0xFF0000) >> 16))/255.0 green:((float)((rgbValue & 0xFF00) >> 8))/255.0 blue:((float)(rgbValue & 0xFF))/255.0 alpha:1.0]
+
+#define Mentioned_All    @"Mentioned_All"
+
+/*!
+ 自定义消息的类型名
+ */
+#define RCDCustomMessageTypeIdentifier @"RCD:CustomMsg"
+#define RCDCustomMediaMessageTypeIdentifier @"RCD:CustomMediaMsg"
+
+#define URL_GetToken  @"user/getToken.json"
+#define URL_CreateGroup  @"/group/create.json"
+#define URL_JoinGroup    @"/group/join.json"
+#define URL_QuitGroup    @"/group/quit.json"
+#define URL_QueryGroupMember   @"/group/user/query.json"
+
+//超级群
+#define URL_CreateUltraGroup  @"/ultragroup/create.json" //创建超级群
+#define URL_CreateUltraGroupChannelToken  @"/ultragroup/channel/create.json" //创建频道
+#define URL_JoinUltraGroup  @"/ultragroup/join.json" //加入超级群
+
+#endif /* PrefixHeader_pch */

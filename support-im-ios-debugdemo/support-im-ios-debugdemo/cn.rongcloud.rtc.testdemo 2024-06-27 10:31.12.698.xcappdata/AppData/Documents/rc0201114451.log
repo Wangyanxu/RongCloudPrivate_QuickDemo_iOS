@@ -1,0 +1,904 @@
+2024-02-01 11:44:51.112 TestDemo[98279:12220908] [RC:A-RTCInit-O]model:iPhone 12,platForm:17.2.1,rtclibVersion:__RongRTCLib__Version__Unknown,commitId:__RongRTCLib__Commit__Unknown,time:__RongRTCLib__Time__Unknown,webrtcVersion:jenkinsdeMac-mini.local_20230511105218_rong/74_1c281351fb
+2024-02-01 11:44:51.115 TestDemo[98279:12220908] [RC:L-RCRTCPeerConnectionManager-S]desc:alloc
+2024-02-01 11:44:51.122 TestDemo[98279:12220908] [RC:A-setEnableMixWithOthers-O]enableMixWithOthers:YES
+2024-02-01 11:44:51.133 TestDemo[98279:12220908] [RC:L-setWebRTCConfiguration-S]category:AVAudioSessionCategoryPlayAndRecord,mode:AVAudioSessionModeVoiceChat,inputNumberOfChannels:2,outputNumberOfChannels:2
+Warning: Unparsed data ",N,Gjce_type,SsetJce_type:,Vjcev2_p_0_r_type" in attribute string "Tc,N,Gjce_type,SsetJce_type:,Vjcev2_p_0_r_type" for property jcev2_p_0_r_type
+Warning: Unparsed data ",&,N,Gjce_proceName,SsetJce_proceName:,Vjcev2_p_1_o_proceName" in attribute string "T@"NSString",&,N,Gjce_proceName,SsetJce_proceName:,Vjcev2_p_1_o_proceName" for property jcev2_p_1_o_proceName
+Warning: Unparsed data ",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_2_o_deviceId" in attribute string "T@"NSString",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_2_o_deviceId" for property jcev2_p_2_o_deviceId
+Warning: Unparsed data ",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_3_o_list__b0x9i_VOBLYSummaryInfo" in attribute string "T@"NSArray",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_3_o_list__b0x9i_VOBLYSummaryInfo" for property jcev2_p_3_o_list__b0x9i_VOBLYSummaryInfo
+Warning: Unparsed data ",&,N,Gjce_valueMap,SsetJce_valueMap:,Vjcev2_p_4_o_valueMap__b0x9i_M09ONSStringONSString" in attribute string "T@"NSDictionary",&,N,Gjce_valueMap,SsetJce_valueMap:,Vjcev2_p_4_o_valueMap__b0x9i_M09ONSStringONSString" for property jcev2_p_4_o_valueMap__b0x9i_M09ONSStringONSString
+Warning: Unparsed data ",N,Gjce_type,SsetJce_type:,Vjcev2_p_0_r_type" in attribute string "Tc,N,Gjce_type,SsetJce_type:,Vjcev2_p_0_r_type" for property jcev2_p_0_r_type
+Warning: Unparsed data ",&,N,Gjce_proceName,SsetJce_proceName:,Vjcev2_p_1_o_proceName" in attribute string "T@"NSString",&,N,Gjce_proceName,SsetJce_proceName:,Vjcev2_p_1_o_proceName" for property jcev2_p_1_o_proceName
+Warning: Unparsed data ",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_2_o_deviceId" in attribute string "T@"NSString",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_2_o_deviceId" for property jcev2_p_2_o_deviceId
+Warning: Unparsed data ",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_3_o_list__b0x9i_VOBLYSummaryInfo" in attribute string "T@"NSArray",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_3_o_list__b0x9i_VOBLYSummaryInfo" for property jcev2_p_3_o_list__b0x9i_VOBLYSummaryInfo
+Warning: Unparsed data ",&,N,Gjce_valueMap,SsetJce_valueMap:,Vjcev2_p_4_o_valueMap__b0x9i_M09ONSStringONSString" in attribute string "T@"NSDictionary",&,N,Gjce_valueMap,SsetJce_valueMap:,Vjcev2_p_4_o_valueMap__b0x9i_M09ONSStringONSString" for property jcev2_p_4_o_valueMap__b0x9i_M09ONSStringONSString
+Warning: Unparsed data ",N,Gjce_startTime,SsetJce_startTime:,Vjcev2_p_0_r_startTime" in attribute string "Tq,N,Gjce_startTime,SsetJce_startTime:,Vjcev2_p_0_r_startTime" for property jcev2_p_0_r_startTime
+Warning: Unparsed data ",N,Gjce_startType,SsetJce_startType:,Vjcev2_p_1_r_startType" in attribute string "Tc,N,Gjce_startType,SsetJce_startType:,Vjcev2_p_1_r_startType" for property jcev2_p_1_r_startType
+Warning: Unparsed data ",&,N,Gjce_userId,SsetJce_userId:,Vjcev2_p_2_o_userId" in attribute string "T@"NSString",&,N,Gjce_userId,SsetJce_userId:,Vjcev2_p_2_o_userId" for property jcev2_p_2_o_userId
+Warning: Unparsed data ",&,N,Gjce_proceName,SsetJce_proceName:,Vjcev2_p_3_o_proceName" in attribute string "T@"NSString",&,N,Gjce_proceName,SsetJce_proceName:,Vjcev2_p_3_o_proceName" for property jcev2_p_3_o_proceName
+Warning: Unparsed data ",&,N,Gjce_sessionId,SsetJce_sessionId:,Vjcev2_p_4_o_sessionId" in attribute string "T@"NSString",&,N,Gjce_sessionId,SsetJce_sessionId:,Vjcev2_p_4_o_sessionId" for property jcev2_p_4_o_sessionId
+Warning: Unparsed data ",&,N,Gjce_valueMap,SsetJce_valueMap:,Vjcev2_p_5_o_valueMap__b0x9i_M09ONSStringONSString" in attribute string "T@"NSDictionary",&,N,Gjce_valueMap,SsetJce_valueMap:,Vjcev2_p_5_o_valueMap__b0x9i_M09ONSStringONSString" for property jcev2_p_5_o_valueMap__b0x9i_M09ONSStringONSString
+Warning: Unparsed data ",&,N,Gjce_gatewayIp,SsetJce_gatewayIp:,Vjcev2_p_6_o_gatewayIp" in attribute string "T@"NSString",&,N,Gjce_gatewayIp,SsetJce_gatewayIp:,Vjcev2_p_6_o_gatewayIp" for property jcev2_p_6_o_gatewayIp
+Warning: Unparsed data ",N,Gjce_coldStart,SsetJce_coldStart:,Vjcev2_p_7_o_coldStart" in attribute string "TB,N,Gjce_coldStart,SsetJce_coldStart:,Vjcev2_p_7_o_coldStart" for property jcev2_p_7_o_coldStart
+Warning: Unparsed data ",N,Gjce_platformId,SsetJce_platformId:,Vjcev2_p_0_r_platformId" in attribute string "Ti,N,Gjce_platformId,SsetJce_platformId:,Vjcev2_p_0_r_platformId" for property jcev2_p_0_r_platformId
+Warning: Unparsed data ",&,N,Gjce_prodId,SsetJce_prodId:,Vjcev2_p_1_r_prodId" in attribute string "T@"NSString",&,N,Gjce_prodId,SsetJce_prodId:,Vjcev2_p_1_r_prodId" for property jcev2_p_1_r_prodId
+Warning: Unparsed data ",&,N,Gjce_bundleId,SsetJce_bundleId:,Vjcev2_p_2_r_bundleId" in attribute string "T@"NSString",&,N,Gjce_bundleId,SsetJce_bundleId:,Vjcev2_p_2_r_bundleId" for property jcev2_p_2_r_bundleId
+Warning: Unparsed data ",&,N,Gjce_version,SsetJce_version:,Vjcev2_p_3_r_version" in attribute string "T@"NSString",&,N,Gjce_version,SsetJce_version:,Vjcev2_p_3_r_version" for property jcev2_p_3_r_version
+Warning: Unparsed data ",&,N,Gjce_channel,SsetJce_channel:,Vjcev2_p_4_o_channel" in attribute string "T@"NSString",&,N,Gjce_channel,SsetJce_channel:,Vjcev2_p_4_o_channel" for property jcev2_p_4_o_channel
+Warning: Unparsed data ",&,N,Gjce_sdkVer,SsetJce_sdkVer:,Vjcev2_p_5_r_sdkVer" in attribute string "T@"NSString",&,N,Gjce_sdkVer,SsetJce_sdkVer:,Vjcev2_p_5_r_sdkVer" for property jcev2_p_5_r_sdkVer
+Warning: Unparsed data ",N,Gjce_cmd,SsetJce_cmd:,Vjcev2_p_6_r_cmd" in attribute string "Ti,N,Gjce_cmd,SsetJce_cmd:,Vjcev2_p_6_r_cmd" for property jcev2_p_6_r_cmd
+Warning: Unparsed data ",&,N,Gjce_sBuffer,SsetJce_sBuffer:,Vjcev2_p_7_r_sBuffer" in attribute string "T@"NSData",&,N,Gjce_sBuffer,SsetJce_sBuffer:,Vjcev2_p_7_r_sBuffer" for property jcev2_p_7_r_sBuffer
+Warning: Unparsed data ",&,N,Gjce_model,SsetJce_model:,Vjcev2_p_8_o_model" in attribute string "T@"NSString",&,N,Gjce_model,SsetJce_model:,Vjcev2_p_8_o_model" for property jcev2_p_8_o_model
+Warning: Unparsed data ",&,N,Gjce_osVer,SsetJce_osVer:,Vjcev2_p_9_o_osVer" in attribute string "T@"NSString",&,N,Gjce_osVer,SsetJce_osVer:,Vjcev2_p_9_o_osVer" for property jcev2_p_9_o_osVer
+Warning: Unparsed data ",&,N,Gjce_reserved,SsetJce_reserved:,Vjcev2_p_10_o_reserved__b0x9i_M09ONSStringONSString" in attribute string "T@"NSDictionary",&,N,Gjce_reserved,SsetJce_reserved:,Vjcev2_p_10_o_reserved__b0x9i_M09ONSStringONSString" for property jcev2_p_10_o_reserved__b0x9i_M09ONSStringONSString
+Warning: Unparsed data ",&,N,Gjce_sessionId,SsetJce_sessionId:,Vjcev2_p_11_o_sessionId" in attribute string "T@"NSString",&,N,Gjce_sessionId,SsetJce_sessionId:,Vjcev2_p_11_o_sessionId" for property jcev2_p_11_o_sessionId
+Warning: Unparsed data ",N,Gjce_strategylastUpdateTime,SsetJce_strategylastUpdateTime:,Vjcev2_p_12_o_strategylastUpdateTime" in attribute string "Tq,N,Gjce_strategylastUpdateTime,SsetJce_strategylastUpdateTime:,Vjcev2_p_12_o_strategylastUpdateTime" for property jcev2_p_12_o_strategylastUpdateTime
+Warning: Unparsed data ",&,N,Gjce_sdkId,SsetJce_sdkId:,Vjcev2_p_13_o_sdkId" in attribute string "T@"NSString",&,N,Gjce_sdkId,SsetJce_sdkId:,Vjcev2_p_13_o_sdkId" for property jcev2_p_13_o_sdkId
+Warning: Unparsed data ",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_14_o_deviceId" in attribute string "T@"NSString",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_14_o_deviceId" for property jcev2_p_14_o_deviceId
+Warning: Unparsed data ",&,N,Gjce_apn,SsetJce_apn:,Vjcev2_p_15_o_apn" in attribute string "T@"NSString",&,N,Gjce_apn,SsetJce_apn:,Vjcev2_p_15_o_apn" for property jcev2_p_15_o_apn
+Warning: Unparsed data ",N,Gjce_uploadTime,SsetJce_uploadTime:,Vjcev2_p_16_o_uploadTime" in attribute string "Tq,N,Gjce_uploadTime,SsetJce_uploadTime:,Vjcev2_p_16_o_uploadTime" for property jcev2_p_16_o_uploadTime
+Warning: Unparsed data ",&,N,Gjce_imei,SsetJce_imei:,Vjcev2_p_17_o_imei" in attribute string "T@"NSString",&,N,Gjce_imei,SsetJce_imei:,Vjcev2_p_17_o_imei" for property jcev2_p_17_o_imei
+Warning: Unparsed data ",&,N,Gjce_qimei,SsetJce_qimei:,Vjcev2_p_18_o_qimei" in attribute string "T@"NSString",&,N,Gjce_qimei,SsetJce_qimei:,Vjcev2_p_18_o_qimei" for property jcev2_p_18_o_qimei
+Warning: Unparsed data ",&,N,Gjce_imsi,SsetJce_imsi:,Vjcev2_p_19_o_imsi" in attribute string "T@"NSString",&,N,Gjce_imsi,SsetJce_imsi:,Vjcev2_p_19_o_imsi" for property jcev2_p_19_o_imsi
+Warning: Unparsed data ",&,N,Gjce_mac,SsetJce_mac:,Vjcev2_p_20_o_mac" in attribute string "T@"NSString",&,N,Gjce_mac,SsetJce_mac:,Vjcev2_p_20_o_mac" for property jcev2_p_20_o_mac
+Warning: Unparsed data ",&,N,Gjce_androidId,SsetJce_androidId:,Vjcev2_p_21_o_androidId" in attribute string "T@"NSString",&,N,Gjce_androidId,SsetJce_androidId:,Vjcev2_p_21_o_androidId" for property jcev2_p_21_o_androidId
+Warning: Unparsed data ",&,N,Gjce_networkType,SsetJce_networkType:,Vjcev2_p_22_o_networkType" in attribute string "T@"NSString",&,N,Gjce_networkType,SsetJce_networkType:,Vjcev2_p_22_o_networkType" for property jcev2_p_22_o_networkType
+Warning: Unparsed data ",&,N,Gjce_idfv,SsetJce_idfv:,Vjcev2_p_23_o_idfv" in attribute string "T@"NSString",&,N,Gjce_idfv,SsetJce_idfv:,Vjcev2_p_23_o_idfv" for property jcev2_p_23_o_idfv
+Warning: Unparsed data ",R,N,V_attributes" in attribute string "T@"BLYUniAttribute",R,N,V_attributes" for property attributes
+Warning: Unparsed data ",&,N,V_iVersion" in attribute string "T@"NSNumber",&,N,V_iVersion" for property iVersion
+Warning: Unparsed data ",&,N,V_cPacketType" in attribute string "T@"NSNumber",&,N,V_cPacketType" for property cPacketType
+Warning: Unparsed data ",&,N,V_iMessageType" in attribute string "T@"NSNumber",&,N,V_iMessageType" for property iMessageType
+Warning: Unparsed data ",&,N,V_iRequestId" in attribute string "T@"NSNumber",&,N,V_iRequestId" for property iRequestId
+Warning: Unparsed data ",&,N,V_sServantName" in attribute string "T@"NSString",&,N,V_sServantName" for property sServantName
+Warning: Unparsed data ",&,N,V_sFuncName" in attribute string "T@"NSString",&,N,V_sFuncName" for property sFuncName
+Warning: Unparsed data ",&,N,V_sBuffer" in attribute string "T@"NSData",&,N,V_sBuffer" for property sBuffer
+Warning: Unparsed data ",&,N,V_iTimeout" in attribute string "T@"NSNumber",&,N,V_iTimeout" for property iTimeout
+Warning: Unparsed data ",&,N,V_context" in attribute string "T@"NSDictionary",&,N,V_context" for property context
+Warning: Unparsed data ",&,N,V_status" in attribute string "T@"NSDictionary",&,N,V_status" for property status
+Warning: Unparsed data ",&,N,Gjce_uniAttributes,SsetJce_uniAttributes:,Vjcev2_p_0_r_uniAttributes__b0x9i_M09ONSStringM09ONSStringONSData" in attribute string "T@"NSMutableDictionary",&,N,Gjce_uniAttributes,SsetJce_uniAttributes:,Vjcev2_p_0_r_uniAttributes__b0x9i_M09ONSStringM09ONSStringONSData" for property jcev2_p_0_r_uniAttributes__b0x9i_M09ONSStringM09ONSStringONSData
+Warning: Unparsed data ",N,Gjce_platformId,SsetJce_platformId:,Vjcev2_p_0_r_platformId" in attribute string "Ti,N,Gjce_platformId,SsetJce_platformId:,Vjcev2_p_0_r_platformId" for property jcev2_p_0_r_platformId
+Warning: Unparsed data ",&,N,Gjce_prodId,SsetJce_prodId:,Vjcev2_p_1_r_prodId" in attribute string "T@"NSString",&,N,Gjce_prodId,SsetJce_prodId:,Vjcev2_p_1_r_prodId" for property jcev2_p_1_r_prodId
+Warning: Unparsed data ",&,N,Gjce_bundleId,SsetJce_bundleId:,Vjcev2_p_2_r_bundleId" in attribute string "T@"NSString",&,N,Gjce_bundleId,SsetJce_bundleId:,Vjcev2_p_2_r_bundleId" for property jcev2_p_2_r_bundleId
+Warning: Unparsed data ",&,N,Gjce_version,SsetJce_version:,Vjcev2_p_3_r_version" in attribute string "T@"NSString",&,N,Gjce_version,SsetJce_version:,Vjcev2_p_3_r_version" for property jcev2_p_3_r_version
+Warning: Unparsed data ",&,N,Gjce_channel,SsetJce_channel:,Vjcev2_p_4_o_channel" in attribute string "T@"NSString",&,N,Gjce_channel,SsetJce_channel:,Vjcev2_p_4_o_channel" for property jcev2_p_4_o_channel
+Warning: Unparsed data ",&,N,Gjce_sdkVer,SsetJce_sdkVer:,Vjcev2_p_5_r_sdkVer" in attribute string "T@"NSString",&,N,Gjce_sdkVer,SsetJce_sdkVer:,Vjcev2_p_5_r_sdkVer" for property jcev2_p_5_r_sdkVer
+Warning: Unparsed data ",N,Gjce_cmd,SsetJce_cmd:,Vjcev2_p_6_r_cmd" in attribute string "Ti,N,Gjce_cmd,SsetJce_cmd:,Vjcev2_p_6_r_cmd" for property jcev2_p_6_r_cmd
+Warning: Unparsed data ",&,N,Gjce_sBuffer,SsetJce_sBuffer:,Vjcev2_p_7_r_sBuffer" in attribute string "T@"NSData",&,N,Gjce_sBuffer,SsetJce_sBuffer:,Vjcev2_p_7_r_sBuffer" for property jcev2_p_7_r_sBuffer
+Warning: Unparsed data ",&,N,Gjce_model,SsetJce_model:,Vjcev2_p_8_o_model" in attribute string "T@"NSString",&,N,Gjce_model,SsetJce_model:,Vjcev2_p_8_o_model" for property jcev2_p_8_o_model
+Warning: Unparsed data ",&,N,Gjce_osVer,SsetJce_osVer:,Vjcev2_p_9_o_osVer" in attribute string "T@"NSString",&,N,Gjce_osVer,SsetJce_osVer:,Vjcev2_p_9_o_osVer" for property jcev2_p_9_o_osVer
+Warning: Unparsed data ",&,N,Gjce_reserved,SsetJce_reserved:,Vjcev2_p_10_o_reserved__b0x9i_M09ONSStringONSString" in attribute string "T@"NSDictionary",&,N,Gjce_reserved,SsetJce_reserved:,Vjcev2_p_10_o_reserved__b0x9i_M09ONSStringONSString" for property jcev2_p_10_o_reserved__b0x9i_M09ONSStringONSString
+Warning: Unparsed data ",&,N,Gjce_sessionId,SsetJce_sessionId:,Vjcev2_p_11_o_sessionId" in attribute string "T@"NSString",&,N,Gjce_sessionId,SsetJce_sessionId:,Vjcev2_p_11_o_sessionId" for property jcev2_p_11_o_sessionId
+Warning: Unparsed data ",N,Gjce_strategylastUpdateTime,SsetJce_strategylastUpdateTime:,Vjcev2_p_12_o_strategylastUpdateTime" in attribute string "Tq,N,Gjce_strategylastUpdateTime,SsetJce_strategylastUpdateTime:,Vjcev2_p_12_o_strategylastUpdateTime" for property jcev2_p_12_o_strategylastUpdateTime
+Warning: Unparsed data ",&,N,Gjce_sdkId,SsetJce_sdkId:,Vjcev2_p_13_o_sdkId" in attribute string "T@"NSString",&,N,Gjce_sdkId,SsetJce_sdkId:,Vjcev2_p_13_o_sdkId" for property jcev2_p_13_o_sdkId
+Warning: Unparsed data ",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_14_o_deviceId" in attribute string "T@"NSString",&,N,Gjce_deviceId,SsetJce_deviceId:,Vjcev2_p_14_o_deviceId" for property jcev2_p_14_o_deviceId
+Warning: Unparsed data ",&,N,Gjce_apn,SsetJce_apn:,Vjcev2_p_15_o_apn" in attribute string "T@"NSString",&,N,Gjce_apn,SsetJce_apn:,Vjcev2_p_15_o_apn" for property jcev2_p_15_o_apn
+Warning: Unparsed data ",N,Gjce_uploadTime,SsetJce_uploadTime:,Vjcev2_p_16_o_uploadTime" in attribute string "Tq,N,Gjce_uploadTime,SsetJce_uploadTime:,Vjcev2_p_16_o_uploadTime" for property jcev2_p_16_o_uploadTime
+Warning: Unparsed data ",&,N,Gjce_imei,SsetJce_imei:,Vjcev2_p_17_o_imei" in attribute string "T@"NSString",&,N,Gjce_imei,SsetJce_imei:,Vjcev2_p_17_o_imei" for property jcev2_p_17_o_imei
+Warning: Unparsed data ",&,N,Gjce_qimei,SsetJce_qimei:,Vjcev2_p_18_o_qimei" in attribute string "T@"NSString",&,N,Gjce_qimei,SsetJce_qimei:,Vjcev2_p_18_o_qimei" for property jcev2_p_18_o_qimei
+Warning: Unparsed data ",&,N,Gjce_imsi,SsetJce_imsi:,Vjcev2_p_19_o_imsi" in attribute string "T@"NSString",&,N,Gjce_imsi,SsetJce_imsi:,Vjcev2_p_19_o_imsi" for property jcev2_p_19_o_imsi
+Warning: Unparsed data ",&,N,Gjce_mac,SsetJce_mac:,Vjcev2_p_20_o_mac" in attribute string "T@"NSString",&,N,Gjce_mac,SsetJce_mac:,Vjcev2_p_20_o_mac" for property jcev2_p_20_o_mac
+Warning: Unparsed data ",&,N,Gjce_androidId,SsetJce_androidId:,Vjcev2_p_21_o_androidId" in attribute string "T@"NSString",&,N,Gjce_androidId,SsetJce_androidId:,Vjcev2_p_21_o_androidId" for property jcev2_p_21_o_androidId
+Warning: Unparsed data ",&,N,Gjce_networkType,SsetJce_networkType:,Vjcev2_p_22_o_networkType" in attribute string "T@"NSString",&,N,Gjce_networkType,SsetJce_networkType:,Vjcev2_p_22_o_networkType" for property jcev2_p_22_o_networkType
+Warning: Unparsed data ",&,N,Gjce_idfv,SsetJce_idfv:,Vjcev2_p_23_o_idfv" in attribute string "T@"NSString",&,N,Gjce_idfv,SsetJce_idfv:,Vjcev2_p_23_o_idfv" for property jcev2_p_23_o_idfv
+Warning: Unparsed data ",R,N,V_attributes" in attribute string "T@"BLYUniAttribute",R,N,V_attributes" for property attributes
+Warning: Unparsed data ",&,N,V_iVersion" in attribute string "T@"NSNumber",&,N,V_iVersion" for property iVersion
+Warning: Unparsed data ",&,N,V_cPacketType" in attribute string "T@"NSNumber",&,N,V_cPacketType" for property cPacketType
+Warning: Unparsed data ",&,N,V_iMessageType" in attribute string "T@"NSNumber",&,N,V_iMessageType" for property iMessageType
+Warning: Unparsed data ",&,N,V_iRequestId" in attribute string "T@"NSNumber",&,N,V_iRequestId" for property iRequestId
+Warning: Unparsed data ",&,N,V_sServantName" in attribute string "T@"NSString",&,N,V2024-02-01 11:44:51.192 TestDemo[98279:12220908] [RC:L-VqeLogOutPut-S]level:4,line:2024-02-01 11:44:51(192)  [3719516160]  ---- [hme_vqe_api.c:1074][HME_Vqe_GetVersion] versionInfo : AE8.0.1 B025
+2024-02-01 11:44:51.192 TestDemo[98279:12220908] [RC:L-VqeLogOutPut-S]level:4,line:2024-02-01 11:44:51(192)  [3719516160]  ---- [hme_vqe_api.c:1075][HME_Vqe_GetVersion] releaseTime : Aug 23 2022  10:04:56
+2024-02-01 11:44:51.192 TestDemo[98279:12220908] [RC:L-VqeLogOutPut-S]level:4,line:2024-02-01 11:44:51(192)  [3719516160]  ---- [hme_vqe_api.c:1076][HME_Vqe_GetVersion] HME_Vqe_GetVersion success
+2024-02-01 11:44:51.192 TestDemo[98279:12220908] [RC:L-VqeLogOutPut-S]level:4,line:2024-02-01 11:44:51(192)  [3719516160]  ---- [hme_vqe_api.c:302][HME_Vqe_CreateHandle] HME_Vqe_CreateHandle begin
+2024-02-01 11:44:51.194 TestDemo[98279:12220908] [RC:L-VqeLogOutPut-S]level:4,line:2024-02-01 11:44:51(194)  [3719516160]  ---- [hme_vqe_api.c:438][HME_Vqe_CreateHandle] HME_Vqe_CreateHandle success
+2024-02-01 11:44:51.195 TestDemo[98279:12220908] [RC:A-setEnableVersionMismatch-O]enableVersionMismatch:0
+2024-02-01 11:44:51.198 TestDemo[98279:12220924] [RCDB]-> [行号:375]开始日志上传: 停止 任务数量为空
+2024-02-01 11:44:51.199 TestDemo[98279:12220931] [RCC]-> [行号:151]云控是否启用: 已启用
+2024-02-01 11:44:51.199 TestDemo[98279:12220931] [RCC]-> [行号:164]是否过期: 从未获取过云控, 判定为已过期
+2024-02-01 11:44:51.199 TestDemo[98279:12220931] [RCC]-> [行号:80]updater: 延迟请求云控 ,5.000000 s后发送请求,  fire 时间戳 1706759096.199181
+2024-02-01 11:44:51.199 TestDemo[98279:12220908] [RC:Kernel]CFBundleIdentifier:cn.rongcloud.rtc.testdemo
+_sServantName" for property sServantName
+Warning: Unparsed data ",&,N,V_sFuncName" in attribute string "T@"NSString",&,N,V_sFuncName" for property sFuncName
+Warning: Unparsed data ",&,N,V_sBuffer" in attribute string "T@"NSData",&,N,V_sBuffer" for property sBuffer
+Warning: Unparsed data ",&,N,V_iTimeout" in attribute string "T@"NSNumber",&,N,V_iTimeout" for property iTimeout
+Warning: Unparsed data ",&,N,V_context" in attribute string "T@"NSDictionary",&,N,V_context" for property context
+Warning: Unparsed data ",&,N,V_status" in attribute string "T@"NSDictionary",&,N,V_status" for property status
+Warning: Unparsed data ",&,N,Gjce_uniAttributes,SsetJce_uniAttributes:,Vjcev2_p_0_r_uniAttributes__b0x9i_M09ONSStringM09ONSStringONSData" in attribute string "T@"NSMutableDictionary",&,N,Gjce_uniAttributes,SsetJce_uniAttributes:,Vjcev2_p_0_r_uniAttributes__b0x9i_M09ONSStringM09ONSStringONSData" for property jcev2_p_0_r_uniAttributes__b0x9i_M09ONSStringM09ONSStringONSData
+[02-01 11:44:51.207] [I] [RC:P-RCInitClient-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCInitClient-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetMessageListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetMessageListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetFilterListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetFilterListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetPushNotificationListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetPushNotificationListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetConversationStatusListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetConversationStatusListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetRTConversationListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetRTConversationListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetUltraGroupEventListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [I] [RC:P-RCSetUltraGroupEventListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.209] [D] [RC:RCFwLogImp.mm][IM]:[RC:FwLogImp]RCFwLog, LogMode = 1, monitorLevel = 0, monitorType = 0
+[02-01 11:44:51.209] [D] [RC:Log-Opened][IM]:{"ptid":"98279-259*"}
+[02-01 11:44:51.210] [I] [RC:P-RCSetConnectStatusListener-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.210] [I] [RC:P-RCSetConnectStatusListener-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.210] [D] [RC:L-Call_LoadRongExtensionModule-S][RTC]:{"ptid":"98279-259*"}
+[02-01 11:44:51.210] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.210] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.210] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.210] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [D] [RC:L-Call_setAppKey-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule setAppKey":"c9kqb3rdkbb8j"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.211] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.212] [D] [RC:CallPlus-setAppKey-O][RTC]:{"ptid":"98279-259*","appKey":"c9kqb3rdkbb8j"}
+[02-01 11:44:51.212] [D] [RC:CallPlus-addGroupCallSignalDelegate-O][RTC]:{"ptid":"98279-259*"}
+[02-01 11:44:51.212] [I] [RC:P-RCSetCallInfoListener-T][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.212] [I] [RC:P-RCSetCallInfoListener-R][IM]:{"pid":"98279-259"}
+[02-01 11:44:51.212] [D] [RC:CallPlus-registerTelephonyEvent-O][RTC]:{"ptid":"98279-259*"}
+[02-01 11:44:51.213] [D] [RC:L-didHoldImSetAppKey-S][RTC]:{"ptid":"98279-259*","appKey":"c9kqb3rdkbb8j"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.213] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.214] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [D] [RC:A-init-O][IM]:{"ptid":"98279-259*","appkey":"c9kqb3rdkbb8j","platform":"iOS-17.2.1","model":"iPhone13,2","sdk":"4.1.0","commitid":"unknown"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [D] [RC:L-crash-enable-S][IM]:"{""ptid"":""98279-259*"",""appkey"":""c9kqb3rdkbb8j"",""appversion"":"""",""enablecrash"":true}"
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.215] [
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.216] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterMessageType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.217] [I] [RC:P-RCRegisterDelMsgType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.218] [I] [RC:P-RCRegisterDelMsgType-R][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.218] [I] [RC:P-RCRegisterCmdMsgType-T][IM]:{"pid":"98279-31491"}
+[02-01 11:44:51.218] [I] [RC:P-RCRegisterCmdMsgType-R][IM]:{"pid":"98279-31491"}
+[02/01/24-11:44:51][thread 12220908][info][CNamaSDK.cpp:273] fuSetup_Impl: sdk version 8.3.0_phy_856b0ba6c_c539c70bd
+2024-02-01 11:44:51.249 TestDemo[98279:12220908] Nama version : 8.3.0_phy_856b0ba6c_c539c70bd
+[02/01/24-11:44:51][thread 12220908][info][NamaContext.cpp:1533] created item name: face_beautification_v2
+[02/01/24-11:44:51][thread 12220908][info][CNamaSDK.cpp:674] fuCreateItemFromPackage: handle = 1, item_name = 
+[02/01/24-11:44:51][thread 12220908][error][fuai_pipeline.cpp:1188] Face Processor model is unloaded
+[02/01/24-11:44:51][thread 12220908][error][fuai_pipeline.cpp:1205] Human Processor model is unloaded
+[02/01/24-11:44:51][thread 12220908][error][fuai_pipeline.cpp:1312] Face Processor model is unloaded
+[02/01/24-11:44:51][thread 12220908][error][fuai_pipeline.cpp:952] Human Processor model is unloaded
+[02/01/24-11:44:51][thread 12220908][info][fuai_pipeline.cpp:708] CreateModel: FUAI_NewFaceProcessorFromBundle
+FaceUnity-Auth: [2022-05-25 14:24:08 +0800][ce146c5] fix issue on ios
+FaceUnity-Auth: dde real thread setup
+FaceUnity-Auth: ry_4_test_MOD1-0
+FaceUnity-Auth: dde real thread cleanup
+INFO: Initialized TensorFlow Lite runtime.
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+[02-01 11:44:51.665] [D] [RC:L-audioSessionDidEndInterruption-S][RTC]:{"ptid":"98279-259*","category":"AVAudioSessionCategorySoloAmbient","categoryOptions":"0","mode":"AVAudioSessionModeDefault","shouldResumeSession":"YES"}
+[02-01 11:44:51.682] [I] [RC:P-RCSetDeviceId-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:51.682] [D] [RC:L-set_deviceid-S][IM]:{"ptid":"98279-259*","device_id":"24eaea246e9101432e02e92348d451d4f14f1cd389660dbf74dc83340e17bdfc"}
+[02-01 11:44:51.682] [I] [RC:P-RCSetDeviceId-R][IM]:{"pid":"98279-18947"}
+2024-02-01 11:44:53.436 TestDemo[98279:12220908] randomNum : 773318534
+2024-02-01 11:44:53.436 TestDemo[98279:12220908] timestamp : 1706759093436
+2024-02-01 11:44:53.500 TestDemo[98279:12220924] request completed,Result: 
+{
+    code = 200;
+    token = "mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net";
+    userId = WYX123;
+}
+[02-01 11:44:53.507] [D] [RC:A-set_server-O][IM]:{"ptid":"98279-259*","navi":["https:\/\/nav-ucqa.rongcloud.net"],"file":""}
+[02-01 11:44:53.507] [D] [RC:A-connect-T][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net"}
+[02-01 11:44:53.508] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":11,"status":10}
+[02-01 11:44:53.509] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:44:53.509] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:53.509] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:44:53.509] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:44:53.509] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-31491","state":"RCCallIdleState","desc":"enter state"}
+[02-01 11:44:53.510] [D] [RC:L-Call_StopUserOperationTimer-S][RTC]:{"ptid":"98279-31491"}
+[02-01 11:44:53.510] [D] [RC:L-Call_StopRemoteTimer-S][RTC]:{"ptid":"98279-31491"}
+[02-01 11:44:53.510] [D] [RC:L-Call_stopRTCRetryTimer-T][RTC]:{"ptid":"98279-31491","desc":"-[RCCallManager stopRTCRetryTimer]"}
+[02-01 11:44:53.510] [D] [RC:L-Call_TerminateCurrentCall-S][RTC]:{"ptid":"98279-31491"}
+[02-01 11:44:53.510] [D] [RC:L-Call_UpdateMyCallStatusOfProfile-S][RTC]:{"ptid":"98279-31491","callStatus":"5"}
+[02-01 11:44:53.510] [D] [RC:L-Call_setCurrentToken-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule setCurrentToken":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net"}
+[02-01 11:44:53.511] [D] [RC:L-Call_SetConfiguration-S][RTC]:{"ptid":"98279-259*","configuration":"<null>"}
+[02-01 11:44:53.511] [D] [RC:L-Call_GenerateCallLog-S][RTC]:{"ptid":"98279-31491","callId":"<null>"}
+[02-01 11:44:53.511] [D] [RC:L-Call_UpdateMediaSupportEngineList-S][RTC]:{"ptid":"98279-259*","engine":"<null>"}
+[02-01 11:44:53.511] [D] [RC:L-Call_StopLocalPreview-S][RTC]:{"ptid":"98279-31491","force":"0"}
+[02-01 11:44:53.511] [D] [RC:CallPlus-setConfiguration-O][RTC]:{"ptid":"98279-259*","configuration":"<null>"}
+[02-01 11:44:53.511] [D] [RC:L-Call_clearCurrentProfile-T][RTC]:{"ptid":"98279-31491","desc":"-[RCCallManager clearCurrentProfile]"}
+[02-01 11:44:53.511] [
+[02-01 11:44:53.511] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:53.511] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-31491","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:53.511] [D] [RC:L-voipCallInfoList-S][RTC]:{"ptid":"98279-11011","voipCallInfoList":"<null>"}
+[02-01 11:44:53.512] [D] [RC:L-voipCallInfoList-S][RTC]:{"ptid":"98279-11011","desc":"voipCallInfoList is null"}
+[02-01 11:44:53.512] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+2024-02-01 11:44:53.512 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:44:53.513] [D] [RC:RCBDHttpDnsSDK.m][IM]:[RC:BDHttpDnsSDK][RC:HTTPDNS] RCBDHttpDns set debug log enable to 1
+[02-01 11:44:53.513] [D] [RC:RCBDHttpDnsSDK.m][IM]:[RC:BDHttpDnsSDK][RC:HTTPDNS] RCBDHttpDns set https enable to 1
+[02-01 11:44:53.513] [D] [RC:RCBDHttpDnsSDK.m][IM]:[RC:BDHttpDnsSDK][RC:HTTPDNS] RCBDHttpDns set network switch policy clearCache(1) httpDnsPrefetch(0)
+[02-01 11:44:53.515] [D] [RC:L-get_navi-T][IM]:{"ptid":"98279-67335","requestId":"8CAAC16C-ED6E-4C96-AEA8-D68429E8CDB1","url":"https:\/\/mwga.rongcloud.net\/v2\/navi.json?cloud=0","headers":"{\"RC-Appkey\":\"c9kqb3rdkbb8j\",\"appId\":\"c9kqb3rdkbb8j\",\"RC-Negotiate\":\"conn=1,2,4;log=2;rtc=4\",\"X-Request-ID\":\"8CAAC16C-ED6E-4C96-AEA8-D68429E8CDB1\",\"User-Agent\":\"RongCloud\",\"Accept-Encoding\":\"gzip\",\"Content-Length\":\"73\"}"}
+[02-01 11:44:53.515] [D] [RC:RCBDHttpDnsSDK.m][IM]:[RC:BDHttpDnsSDK][RC:HTTPDNS] RCBDHttpDns sync resolve failed, host(mwga.rongcloud.net), find no httpdns cache entry
+[02-01 11:44:53.531] [D] [RC:L-get_navi-S][IM]:{"ptid":"98279-259*","url":"https:\/\/mwga.rongcloud.net\/v2\/navi.json?cloud=0","ip":"39.106.31.153"}
+[02-01 11:44:53.621] [
+[02-01 11:44:53.622] [D] [RC:RCNaviDataInfo.m][IM]:[RC:NaviDataInfo]cmp V2 serverAddr has duplicated, addr:ssl-lvbu-rmtp.rongcloud.net:443, protocol:2
+[02-01 11:44:53.622] [D] [RC:RCNaviDataInfo.m][IM]:[RC:NaviDataInfo]cmp V2 serverAddr has duplicated, addr:t-tcpproxy-ucqa.rongcloud.net:8881, protocol:1
+[02-01 11:44:53.624] [D] [RC:L-Call_SetConfiguration-S][RTC]:{"ptid":"98279-259*","configuration":"<RCNaviDataInfo: 0x280a6c540>"}
+[02-01 11:44:53.625] [D] [RC:L-Call_UpdateMediaSupportEngineList-S][RTC]:{"ptid":"98279-259*","engine":"<RCCallRTCEngineEnabler: 0x280168120>"}
+[02-01 11:44:53.625] [D] [RC:CallPlus-setConfiguration-O][RTC]:{"ptid":"98279-259*","configuration":"<RCNaviDataInfo: 0x280a6c540>"}
+[02-01 11:44:53.626] [D] [RC:L-get_navi-R][IM]:{"ptid":"98279-259*","requestId":"8CAAC16C-ED6E-4C96-AEA8-D68429E8CDB1","code":200,"duration":112}
+[02-01 11:44:53.626] [D] [RC:L-voipCallInfoList-S][RTC]:{"ptid":"98279-18947","voipCallInfoList":"(\n        {\n        backupMediaServer =         (\n            \"https:\/\/rtc-info-test.rongcloud.net\"\n        );\n        detectorManager = \"https:\/\/rtc-info-test.rongcloud.net\";\n        engineType = 4;\n        maxStreamCount = 30;\n        mediaServer = \"https:\/\/rtc-info-test.rongcloud.net\";\n        openSDES = 1;\n        wwise = 1;\n    }\n)"}
+[02-01 11:44:53.626] [D] [RC:L-connect-O][IM]:{"ptid":"98279-11011"}
+[02-01 11:44:53.626] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""cache\"":0,\""cod\"":200,\""hos\"":\""https:\\\/\\\/mwga.rongcloud.net\\\/v2\\\/navi.json?cloud=0\"",\""dur\"":103,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.31.153\"",\""ddu\"":15,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+[02-01 11:44:53.626] [D] [RC:L-setQOEStatNaviInfo-O][RTC]:{"ptid":"98279-18947","logServerUrl":"https:\/\/logcollection.ronghub.com.db:443","dataCenter":"ALIBJ2_QA","jsonWebToken":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzA2ODQ1NDkzLCJ1c2VySWQiOiJXWVgxMjMifQ.z-j2582SG2xvEb-JUHpDopkTuWMSLyXmFUWSBxDcZqA"}
+2024-02-01 11:44:53.627 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":0,"cod":200,"hos":"https:\/\/mwga.rongcloud.net\/v2\/navi.json?cloud=0","dur":103,"ptc":1,"idx":1,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","net":"wifi","pr":0,"dip":"39.106.31.153","ddu":15,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.627] [D] [RC:L-setJsonWebToken-S][RTC]:{"ptid":"98279-18947","tmpStamp":"1706845493","nowInterval":"1706759093.627204","desc":"jwt expire date and now date"}
+[02-01 11:44:53.628] [D] [RC:L-stopfetchNaviDataTimer-S][RTC]:{"ptid":"98279-18947"}
+[02-01 11:44:53.629] [D] [RC:L-openHTTPDNS-S][RTC]:{"ptid":"98279-18947","openHTTPDNS":"0","desc":"current IM version contain openHTTPDNS"}
+[02-01 11:44:53.629] [D] [RC:L-RTCNaviData-S][RTC]:{"ptid":"98279-18947","navi":"{\n    backupMediaServer =     (\n        \"https:\/\/rtc-info-test.rongcloud.net\"\n    );\n    detectorManager = \"https:\/\/rtc-info-test.rongcloud.net\";\n    engineType = 4;\n    maxStreamCount = 30;\n    mediaServer = \"https:\/\/rtc-info-test.rongcloud.net\";\n    openSDES = 1;\n    wwise = 1;\n}","OpenHTTPDNS":"0"}
+[02-01 11:44:53.629] [D] [RC:L-voipCallInfoList-S][RTC]:{"ptid":"98279-18947","detectorServer":"https:\/\/rtc-info-test.rongcloud.net","jwt":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzA2ODQ1NDkzLCJ1c2VySWQiOiJXWVgxMjMifQ.z-j2582SG2xvEb-JUHpDopkTuWMSLyXmFUWSBxDcZqA","openGzip":"1","openSDES":"1"}
+[02-01 11:44:53.629] [D] [RC:L-tryGetDetectedMediaList-O][RTC]:{"ptid":"98279-18947","desc":"try get deteced media list"}
+[02-01 11:44:53.629] [D] [RC:L-fetchPingCache-S][RTC]:{"ptid":"98279-18947","info":"{\n    allNtpServer = \"39.105.171.45:8082,182.92.3.58:8082\";\n    lastTimeStamp = 1706757689;\n    optimalProbeAddr = \"39.105.171.45:8082,182.92.3.58:8082\";\n    optimalServerIps =     (\n                {\n            latency = \"10.92281\";\n            mediaServer = \"rtc-media-test-bj-01.rongcloud.net\";\n        }\n    );\n}"}
+[02-01 11:44:53.630] [D] [RC:L-getNeedDetectMediaList-T][RTC]:{"ptid":"98279-18947","requestUrl":"https:\/\/rtc-info-test.rongcloud.net","desc":"start get need detect media list"}
+[02-01 11:44:53.632] [D] [RC:L-httpRequest-T][RTC]:{"ptid":"98279-18947","url":"https:\/\/rtc-info-test.rongcloud.net\/rtc\/detector\/servers","openGzip":"0","httpHeaders":"<null>"}
+[02-01 11:44:53.669] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-11011","private":"false"}
+[02-01 11:44:53.669] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-31747"}
+[02-01 11:44:53.670] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:44:53.670] [D] [RC:P-connect-T][IM]:{"ptid":"98279-11011","use":"ssl-lvbu-rmtp.rongcloud.net:443;2;7;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;6;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0","cache":"ssl-lvbu-rmtp.rongcloud.net:443;2;7;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;6;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:53.670] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:44:53.671] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-31747"}
+[02-01 11:44:53.671] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-31747"}
+[02-01 11:44:53.671] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-31747"}
+[02-01 11:44:53.676] [D] [RC:A-connect-S][IM]:{"ptid":"98279-11011","code":0}
+[02-01 11:44:53.676] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:44:53.724] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:44:53.724] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:0,nettype:1,error:-1
+[02-01 11:44:53.724] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:35,nettype:1,error:0
+[02-01 11:44:53.725] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":-1,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":0,"race":false}
+[02-01 11:44:53.725] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:qaquic.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:53.725] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-16899","code":0,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":35}
+[02-01 11:44:53.725] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:qaproxy.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:53.725] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"qaquic.rongcloud.net:443","protocol":4,"duration":0,"race":false}
+[02-01 11:44:53.725] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31491","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+[02-01 11:44:53.725] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-5635","code":-1,"cmp":"qaproxy.rongcloud.net:443","protocol":4,"duration":0,"race":false}
+[02-01 11:44:53.726] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":6,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.726 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":6,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.727] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""rct\"":0,\""cod\"":0,\""weight\"":7,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":35,\""ptc\"":2,\""idx\"":0,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":13,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.727 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":0,"weight":7,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":35,"ptc":2,"idx":0,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":13,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.727] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":2,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.727 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":2,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.728] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":4,\""hos\"":\""qaquic.rongcloud.net\"",\""dur\"":0,\""ptc\"":4,\""idx\"":3,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.728 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":4,"hos":"qaquic.rongcloud.net","dur":0,"ptc":4,"idx":3,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.728] [D] [RC:L-httpRequest-R][RTC]:{"ptid":"98279-11011","url":"https:\/\/rtc-info-test.rongcloud.net\/rtc\/detector\/servers","openGzip":"0","protocolType":"HTTP3","parameters":"{\n    jwt = \"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzA2ODQ1NDkzLCJ1c2VySWQiOiJXWVgxMjMifQ.z-j2582SG2xvEb-JUHpDopkTuWMSLyXmFUWSBxDcZqA\";\n}","responseObject":"{\n    clientDetectMinute = 5;\n    detectorAddrs =     (\n                {\n            \"_\" = 0;\n            clusterId = \"rtc-media-test-bj-01.rongcloud.net\";\n            detectorAddr = \"rtc-media-test-bj-01.rongcloud.net\";\n            detectorIp = \"182.92.3.58,39.105.171.45\";\n            ntpServer = \"182.92.3.58:8082,39.105.171.45:8082\";\n            probeAddr = \"182.92.3.58:8082,39.105.171.45:8082\";\n        }\n    );\n    message = success;\n    resultCode = 10000;\n}"}
+[02-01 11:44:53.728] [D] [RC:L-getNeedDetectMediaList-R][RTC]:{"ptid":"98279-11011","needDetectMediaList":"(\n        {\n        \"_\" = 0;\n        clusterId = \"rtc-media-test-bj-01.rongcloud.net\";\n        detectorAddr = \"rtc-media-test-bj-01.rongcloud.net\";\n        detectorIp = \"182.92.3.58,39.105.171.45\";\n        ntpServer = \"182.92.3.58:8082,39.105.171.45:8082\";\n        probeAddr = \"182.92.3.58:8082,39.105.171.45:8082\";\n    }\n)","expiredTime":"300"}
+[02-01 11:44:53.728] [D] [RC:L-mediaPingDetect-S][RTC]:{"ptid":"98279-11011","needDetectMediaList":"(\n        {\n        clusterId = \"rtc-media-test-bj-01.rongcloud.net\";\n        detectorIp = \"182.92.3.58\";\n        probeAddr = \"182.92.3.58:8082\";\n    }\n)"}
+[02-01 11:44:53.729] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":1,\""hos\"":\""qaproxy.rongcloud.net\"",\""dur\"":0,\""ptc\"":4,\""idx\"":4,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.729 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":1,"hos":"qaproxy.rongcloud.net","dur":0,"ptc":4,"idx":4,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"AD392F3C-9628-445B-A47D-632791CCB712_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.757] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":81,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:53.757] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:44:53.757] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:44:53.757] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""fg\"":1,\""dur\"":81,\""ec\"":0,\""count\"":0,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""AD392F3C-9628-445B-A47D-632791CCB712_0\""}""}"
+[02-01 11:44:53.757] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+2024-02-01 11:44:53.757 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":81,"ec":0,"count":0,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"AD392F3C-9628-445B-A47D-632791CCB712_0"}
+[02-01 11:44:53.757] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:44:53.757] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:53.758] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:44:53.758] [
+[02-01 11:44:53.758] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:44:53.758] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-31747","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:53.758] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:53.758] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":50}
+[02-01 11:44:53.758] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:53.797] [D] [RC:L-mediaPingDetect-S][RTC]:{"ptid":"98279-9475","isSuccess":"1","pingAddr":"182.92.3.58","latency":"13.66798877716064","desc":"<null>"}
+[02-01 11:44:53.797] [D] [RC:L-mediaPingDetect-S][RTC]:{"ptid":"98279-11011","pingResultCache":"{\n    \"rtc-media-test-bj-01.rongcloud.net\" =     {\n        latency = \"13.66798877716064\";\n        probeAddr = \"182.92.3.58:8082,39.105.171.45:8082\";\n    };\n}"}
+[02-01 11:44:53.798] [D] [RC:L-mediaPingDetect-R][RTC]:{"ptid":"98279-11011","optimalMediaInfo":"{\n    allNtpServer = \"182.92.3.58:8082,39.105.171.45:8082\";\n    lastTimeStamp = 1706759093;\n    optimalProbeAddr = \"182.92.3.58:8082,39.105.171.45:8082\";\n    optimalServerIps =     (\n                {\n            latency = \"13.66799\";\n            mediaServer = \"rtc-media-test-bj-01.rongcloud.net\";\n        }\n    );\n}"}
+[02-01 11:44:53.809] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:44:53.809] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:44:53.809] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:53.809] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:44:53.809] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:44:53.809] [
+[02-01 11:44:53.809] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-11011","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:53.819] [D] [RC:L-audioSessionDidChangeOutputVolume-S][RTC]:{"ptid":"98279-259*","outputVolume":"0.65"}
+[02-01 11:44:53.861] [D] [RC:L-audioSessionDidChangeRoute-S][RTC]:{"ptid":"98279-11011","reason":"CategoryChange","audioSession":"RTCAudioSession: {\n  category: AVAudioSessionCategoryPlayAndRecord\n  categoryOptions: 32\n  mode: AVAudioSessionModeDefault\n  isActive: 0\n  sampleRate: 48000.00\n  IOBufferDuration: 0.021333\n  outputNumberOfChannels: 1\n  inputNumberOfChannels: 1\n  outputLatency: 0.002000\n  inputLatency: 0.002438\n  outputVolume: 0.650000\n}","currentRoute":"<AVAudioSessionRouteDescription: 0x2831684a0, \ninputs = (\n    \"<AVAudioSessionPortDescription: 0x2831683e0, type = MicrophoneBuiltIn; name = iPhone 麦克风; UID = Built-In Microphone; selectedDataSource = 前>\"\n); \noutputs = (\n    \"<AVAudioSessionPortDescription: 0x283168500, type = Receiver; name = 接收器; UID = Built-In Receiver; selectedDataSource = (null)>\"\n)>"}
+[02-01 11:44:53.862] [D] [RC:L-audioSessionDidChangeRoute-X][RTC]:{"ptid":"98279-11011","previousRoute":"<AVAudioSessionRouteDescription: 0x2831644b0, \ninputs = (\n); \noutputs = (\n    \"<AVAudioSessionPortDescription: 0x2831604d0, type = Speaker; name = 扬声器; UID = Speaker; selectedDataSource = (null)>\"\n)>"}
+[02-01 11:44:53.863] [D] [RC:L-VqeLogOutPut-S][RTC]:{"ptid":"98279-11011","level":"4","line":"2024-02-01 11:44:53(863)  [1877504000]  ---- [hw_vqe_api.c:39][HW_VQE_SetRouteMode] HW_VQE_SetRouteMode begin mode 0"}
+[02-01 11:44:53.863] [D] [RC:L-VqeLogOutPut-S][RTC]:{"ptid":"98279-11011","level":"4","line":"2024-02-01 11:44:53(863)  [1877504000]  ---- [hme_vqe_api.c:479][HME_Vqe_SetRouteMode] HME_Vqe_SetRouteMode begin handle:0x28067d080, deviceType :0"}
+[02-01 11:44:53.863] [D] [RC:L-VqeLogOutPut-S][RTC]:{"ptid":"98279-11011","level":"4","line":"2024-02-01 11:44:53(863)  [1877504000]  ---- [hme_vqe_api.c:492][HME_Vqe_SetRouteMode] HME_Vqe_SetRouteMode dataTransit->deviceType :0"}
+[02-01 11:44:53.871] [D] [RC:L-setMediaServerUrlsInner-O][RTC]:{"ptid":"98279-18947","urls":"(\n    \"https:\/\/rtc-info-test.rongcloud.net\"\n)","type":"3"}
+[02-01 11:44:53.871] [D] [RC:L-pushCommand-S][RTC]:{"ptid":"98279-18947","currentPushCommand":"0x281770c60: update media server ips command, with params: {\n    callback = \"<__NSGlobalBlock__: 0x105d45028>\";\n    type = 3;\n    url =     (\n        \"https:\/\/rtc-info-test.rongcloud.net\"\n    );\n}, status is Normal status, is internal: 1, retryCount: 0, seqNo: 0, nextTime: 1970-01-01 00:00:00 +0000"}
+[02-01 11:44:53.871] [D] [RC:L-voipCallInfoList-S][RTC]:{"ptid":"98279-18947","backupMediaServer":"(\n    \"https:\/\/rtc-info-test.rongcloud.net\"\n)"}
+[02-01 11:44:53.871] [D] [RC:L-showAllCommands-S][RTC]:{"ptid":"98279-9475","pendingCommandCount":"1"}
+[02-01 11:44:53.872] [D] [RC:L-pushCommand-S][RTC]:{"ptid":"98279-18947","currentPushCommand":"0x281726dc0: update media server ips command, with params: {\n    callback = \"<__NSGlobalBlock__: 0x105d427b0>\";\n    type = 5;\n    url =     (\n        \"https:\/\/rtc-info-test.rongcloud.net\"\n    );\n}, status is Normal status, is internal: 1, retryCount: 0, seqNo: 0, nextTime: 1970-01-01 00:00:00 +0000"}
+[02-01 11:44:53.872] [D] [RC:L-showAllCommands-S][RTC]:{"ptid":"98279-9475","pendingCommand":"0x281770c60: update media server ips command, with params: {\n    callback = \"<__NSGlobalBlock__: 0x105d45028>\";\n    type = 3;\n    url =     (\n        \"https:\/\/rtc-info-test.rongcloud.net\"\n    );\n}, status is Normal status, is internal: 1, retryCount: 0, seqNo: 0, nextTime: 1970-01-01 00:00:00 +0000"}
+[02-01 11:44:53.872] [D] [RC:L-showAllCommands-S][RTC]:{"ptid":"98279-9475","pendingCommand":"0x281726dc0: update media server ips command, with params: {\n    callback = \"<__NSGlobalBlock__: 0x105d427b0>\";\n    type = 5;\n    url =     (\n        \"https:\/\/rtc-info-test.rongcloud.net\"\n    );\n}, status is Normal status, is internal: 1, retryCount: 0, seqNo: 0, nextTime: 1970-01-01 00:00:00 +0000"}
+[02-01 11:44:53.873] [D] [RC:L-fetchOperation-S][RTC]:{"ptid":"98279-9475","op":"<RCRTCUpdateMediaServerIpsOperation: 0x1013bc4f0>"}
+[02-01 11:44:53.873] [D] [RC:L-tryFetchOperation-S][RTC]:{"ptid":"98279-9475","currentOperations":"(\n    \"<RCRTCUpdateMediaServerIpsOperation: 0x1013bc4f0>\"\n)"}
+[02-01 11:44:53.873] [D] [RC:L-updateMediaServerIps-T][RTC]:{"ptid":"98279-9475","ips":"(\n    \"https:\/\/rtc-info-test.rongcloud.net\"\n)"}
+[02-01 11:44:53.873] [D] [RC:L-setUsingMediaServerIP-S][RTC]:{"ptid":"98279-9475","ip":"https:\/\/rtc-info-test.rongcloud.net"}
+[02-01 11:44:53.873] [D] [RC:L-updateMediaServerIps-R][RTC]:{"ptid":"98279-9475","mediaServerIPList":"(\n        {\n        priority = 3;\n        value = \"https:\/\/rtc-info-test.rongcloud.net\";\n    }\n)"}
+[02-01 11:44:53.873] [D] [RC:L-showAllCommands-S][RTC]:{"ptid":"98279-18947","pendingCommandCount":"1"}
+[02-01 11:44:53.873] [D] [RC:L-showAllCommands-S][RTC]:{"ptid":"98279-18947","pendingCommand":"0x281726dc0: update media server ips command, with params: {\n    callback = \"<__NSGlobalBlock__: 0x105d427b0>\";\n    type = 5;\n    url =     (\n        \"https:\/\/rtc-info-test.rongcloud.net\"\n    );\n}, status is Normal status, is internal: 1, retryCount: 0, seqNo: 0, nextTime: 1970-01-01 00:00:00 +0000"}
+[02-01 11:44:53.873] [D] [RC:L-fetchOperation-S][RTC]:{"ptid":"98279-18947","op":"<RCRTCUpdateMediaServerIpsOperation: 0x1013bc4f0>"}
+[02-01 11:44:53.873] [D] [RC:L-updateMediaServerIps-T][RTC]:{"ptid":"98279-18947","ips":"(\n    \"https:\/\/rtc-info-test.rongcloud.net\"\n)"}
+[02-01 11:44:53.873] [D] [RC:L-setUsingMediaServerIP-S][RTC]:{"ptid":"98279-18947","ip":"https:\/\/rtc-info-test.rongcloud.net"}
+[02-01 11:44:53.873] [D] [RC:L-updateMediaServerIps-R][RTC]:{"ptid":"98279-18947","mediaServerIPList":"(\n        {\n        priority = 3;\n        value = \"https:\/\/rtc-info-test.rongcloud.net\";\n    }\n)"}
+[02-01 11:44:53.873] [D] [RC:L-showAllCommands-S][RTC]:{"ptid":"98279-18947","pendingCommandCount":"0"}
+[02-01 11:44:53.873] [D] [RC:L-fetchOperation-S][RTC]:{"ptid":"98279-18947","op":"<null>"}
+[02-01 11:44:53.897] [D] [RC:L-audioSessionDidChangeRoute-S][RTC]:{"ptid":"98279-11011","reason":"RouteConfigurationChange","audioSession":"RTCAudioSession: {\n  category: AVAudioSessionCategoryPlayAndRecord\n  categoryOptions: 32\n  mode: AVAudioSessionModeDefault\n  isActive: 0\n  sampleRate: 48000.00\n  IOBufferDuration: 0.021333\n  outputNumberOfChannels: 1\n  inputNumberOfChannels: 1\n  outputLatency: 0.002000\n  inputLatency: 0.002438\n  outputVolume: 0.650000\n}","currentRoute":"<AVAudioSessionRouteDescription: 0x28312dbb0, \ninputs = (\n    \"<AVAudioSessionPortDescription: 0x28312dc30, type = MicrophoneBuiltIn; name = iPhone 麦克风; UID = Built-In Microphone; selectedDataSource = 前>\"\n); \noutputs = (\n    \"<AVAudioSessionPortDescription: 0x28312d990, type = Receiver; name = 接收器; UID = Built-In Receiver; selectedDataSource = (null)>\"\n)>"}
+[02-01 11:44:53.897] [D] [RC:L-audioSessionDidChangeRoute-X][RTC]:{"ptid":"98279-11011","previousRoute":"<AVAudioSessionRouteDescription: 0x28312ceb0, \ninputs = (\n    \"<AVAudioSessionPortDescription: 0x28312db80, type = MicrophoneBuiltIn; name = iPhone 麦克风; UID = Built-In Microphone; selectedDataSource = 下>\"\n); \noutputs = (\n    \"<AVAudioSessionPortDescription: 0x28312dbf0, type = Receiver; name = 接收器; UID = Built-In Receiver; selectedDataSource = (null)>\"\n)>"}
+[02-01 11:44:53.914] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-11011"}
+[02-01 11:44:53.915] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-11011","private":"false"}
+[02-01 11:44:53.915] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+2024-02-01 11:44:53.915 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:44:53.915] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:53.915] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:44:53.915] [D] [RC:P-connect-T][IM]:{"ptid":"98279-11011","use":"t-tcpproxy-ucqa.rongcloud.net:8881;1;6;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0","cache":"t-tcpproxy-ucqa.rongcloud.net:8881;1;6;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:53.915] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-9475"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.915 TestDemo[98279:12220923] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.916] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:53.916] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:53.917] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:53.917] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:53.920] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:53.951] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:13,nettype:1,error:0
+[02-01 11:44:53.951] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-11011","code":0,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":13}
+[02-01 11:44:53.951] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":31,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:53.952] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:44:53.952] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:44:53.952] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:44:53.952] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:44:53.952] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:53.952] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:44:53.952] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:44:53.952] [
+[02-01 11:44:53.952] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:53.952] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":250}
+[02-01 11:44:53.952] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-9475","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:53.952] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:53.952] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:44:53.952] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+[02-01 11:44:53.952] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:qaquic.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:53.952] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:qaproxy.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:53.952] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":-1,"cmp":"qaquic.rongcloud.net:443","protocol":4,"duration":0,"race":false}
+[02-01 11:44:53.952] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-11011","code":-1,"cmp":"qaproxy.rongcloud.net:443","protocol":4,"duration":0,"race":false}
+[02-01 11:44:53.952] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:53.952] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:44:53.953] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":0,\""cod\"":0,\""weight\"":6,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":13,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":17,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.953 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":0,"weight":6,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":13,"ptc":1,"idx":0,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":17,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.953] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""fg\"":1,\""dur\"":31,\""ec\"":0,\""count\"":0,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\""}""}"
+2024-02-01 11:44:53.954 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":31,"ec":0,"count":0,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0"}
+[02-01 11:44:53.954] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.954 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.955] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":4,\""hos\"":\""qaquic.rongcloud.net\"",\""dur\"":0,\""ptc\"":4,\""idx\"":2,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.955 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":4,"hos":"qaquic.rongcloud.net","dur":0,"ptc":4,"idx":2,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.955] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":1,\""hos\"":\""qaproxy.rongcloud.net\"",\""dur\"":0,\""ptc\"":4,\""idx\"":3,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.956 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":1,"hos":"qaproxy.rongcloud.net","dur":0,"ptc":4,"idx":3,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:53.956] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":0,\""cod\"":-1,\""weight\"":0,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":4,\""cr\"":[],\""count\"":0,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_0\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:53.956 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":0,"cod":-1,"weight":0,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":4,"cr":[],"count":0,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_0","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.203] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:44:54.204] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:44:54.204] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:54.205] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:44:54.205] [
+[02-01 11:44:54.205] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:44:54.205] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-18947","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+Warning: Unparsed data ",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_0_r_list__b0x9i_VOBLYExceptionUpload" in attribute string "T@"NSArray",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_0_r_list__b0x9i_VOBLYExceptionUpload" for property jcev2_p_0_r_list__b0x9i_VOBLYExceptionUpload
+Warning: Unparsed data ",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_0_r_list__b0x9i_VOBLYExceptionUpload" in attribute string "T@"NSArray",&,N,Gjce_list,SsetJce_list:,Vjcev2_p_0_r_list__b0x9i_VOBLYExceptionUpload" for property jcev2_p_0_r_list__b0x9i_VOBLYExceptionUpload
+[02-01 11:44:54.307] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-9475"}
+[02-01 11:44:54.307] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.307] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-9475","private":"false"}
+[02-01 11:44:54.308] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_1\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+2024-02-01 11:44:54.308 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_1","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:44:54.308] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.308] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.309] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:44:54.309] [D] [RC:P-connect-T][IM]:{"ptid":"98279-9475","use":"t-tcpproxy-ucqa.rongcloud.net:8881;1;6;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0","cache":"t-tcpproxy-ucqa.rongcloud.net:8881;1;6;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:54.310] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.310] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.311] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":1,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_1\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.311 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":1,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_1","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.312] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.328] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:44:54.328] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:12,nettype:1,error:0
+[02-01 11:44:54.328] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:54.329] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-6403","code":0,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":12}
+[02-01 11:44:54.329] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":16,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:54.329] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:44:54.329] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:44:54.329] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""fg\"":1,\""dur\"":16,\""ec\"":0,\""count\"":1,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_1\""}""}"
+[02-01 11:44:54.329] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:44:54.328] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-18947","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+2024-02-01 11:44:54.329 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":16,"ec":0,"count":1,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_1"}
+[02-01 11:44:54.329] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:44:54.329] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:44:54.329] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:54.329] [
+[02-01 11:44:54.329] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:44:54.330] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-18947","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:54.330] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:44:54.330] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:54.330] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":6,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":12,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":1,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_1\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":4,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.330 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":6,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":12,"ptc":1,"idx":0,"cr":[],"count":1,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_1","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":4,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.330] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":500}
+[02-01 11:44:54.331] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:54.331] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":1,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_1\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.331 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":1,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_1","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.332] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":0,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":2,\""cr\"":[],\""count\"":1,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_1\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.332 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":0,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":2,"cr":[],"count":1,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_1","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.832] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:44:54.833] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:44:54.833] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:54.833] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:44:54.833] [
+[02-01 11:44:54.834] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:44:54.834] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-6403","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:54.938] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-6403"}
+[02-01 11:44:54.939] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-6403","private":"false"}
+[02-01 11:44:54.939] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.940] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-9475"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_2\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+[02-01 11:44:54.940] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-18947"}
+2024-02-01 11:44:54.940 TestDemo[98279:12220923] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_2","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:44:54.940] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.940] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.941] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:44:54.942] [D] [RC:P-connect-T][IM]:{"ptid":"98279-6403","use":"t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-1;0","cache":"t-tcpproxy-aliqa.rongcloud.net:8891;1;5;0,qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-1;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:54.942] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.944] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-18947"}
+[02-01 11:44:54.944] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":2,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_2\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.945 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":2,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_2","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.971] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:54.971] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:0,nettype:1,error:-1
+[02-01 11:44:54.971] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:14,nettype:1,error:0
+[02-01 11:44:54.971] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-18947","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:44:54.971] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":26,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:54.972] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:44:54.971] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":0,"race":false}
+[02-01 11:44:54.972] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:44:54.972] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""fg\"":1,\""dur\"":26,\""ec\"":0,\""count\"":2,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_2\""}""}"
+[02-01 11:44:54.972] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:44:54.973] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+2024-02-01 11:44:54.973 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":26,"ec":0,"count":2,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_2"}
+[02-01 11:44:54.971] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-6403","code":0,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":14}
+[02-01 11:44:54.973] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:54.973] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:44:54.973] [
+[02-01 11:44:54.974] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:44:54.974] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-16899","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:54.974] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:54.975] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":1000}
+[02-01 11:44:54.975] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":14,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":2,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_2\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":11,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+[02-01 11:44:54.975] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+2024-02-01 11:44:54.976 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":14,"ptc":1,"idx":0,"cr":[],"count":2,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_2","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":11,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.977] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":0,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":1,\""cr\"":[],\""count\"":2,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_2\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.978 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":0,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":1,"cr":[],"count":2,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_2","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:54.979] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-31747"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-1,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":2,\""cr\"":[],\""count\"":2,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_2\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:54.979 TestDemo[98279:12220930] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-1,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":0,"ptc":1,"idx":2,"cr":[],"count":2,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_2","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:55.976] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:44:55.977] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:44:55.977] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:55.977] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:44:55.977] [
+[02-01 11:44:55.978] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:44:55.978] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-6403","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:56.083] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-16899"}
+[02-01 11:44:56.084] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_3\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+2024-02-01 11:44:56.085 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_3","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:44:56.085] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-16899","private":"false"}
+[02-01 11:44:56.085] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-6403"}
+[02-01 11:44:56.086] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-6403"}
+[02-01 11:44:56.086] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-6403"}
+[02-01 11:44:56.086] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-6403"}
+[02-01 11:44:56.087] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:44:56.088] [D] [RC:P-connect-T][IM]:{"ptid":"98279-16899","use":"ssl-lvbu-rmtp.rongcloud.net:443;2;0;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-1;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-2;0","cache":"qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,ssl-lvbu-rmtp.rongcloud.net:443;2;0;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-1;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-2;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:56.088] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-6403"}
+[02-01 11:44:56.090] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-6403"}
+[02-01 11:44:56.090] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-16899"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":3,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_3\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:56.091 TestDemo[98279:12220926] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":3,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_3","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:56.147] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:0,nettype:1,error:-1
+[02-01 11:44:56.147] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:44:56.147] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:53,nettype:1,error:0
+[02-01 11:44:56.148] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+[02-01 11:44:56.148] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-6403","code":-1,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":0,"race":false}
+[02-01 11:44:56.148] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-16899","code":0,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":53}
+[02-01 11:44:56.149] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":0,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":53,\""ptc\"":2,\""idx\"":0,\""cr\"":[],\""count\"":3,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_3\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":3,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:56.150 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":0,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":53,"ptc":2,"idx":0,"cr":[],"count":3,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_3","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":3,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:56.151] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-1,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":3,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_3\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:56.152 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-1,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":3,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_3","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:56.153] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-2,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":2,\""cr\"":[],\""count\"":3,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_3\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:56.153 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-2,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":2,"cr":[],"count":3,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_3","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:56.166] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":75,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:56.166] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""fg\"":1,\""dur\"":75,\""ec\"":0,\""count\"":3,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_3\""}""}"
+[02-01 11:44:56.167] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+2024-02-01 11:44:56.167 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":75,"ec":0,"count":3,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_3"}
+[02-01 11:44:56.167] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:44:56.167] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:44:56.168] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:44:56.168] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:56.168] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:44:56.168] [
+[02-01 11:44:56.168] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:44:56.168] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-18947","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:56.169] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:56.169] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":2000}
+[02-01 11:44:56.169] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+2024-02-01 11:44:56.326 TestDemo[98279:12220908] [RCC]-> [行号:87]updater: 请求云控 -> token null, 上次的服务器时间戳 0
+2024-02-01 11:44:56.327 TestDemo[98279:12220908] [RCC]-> [行号:135]区域码: 0 -> URL : https://cloudcontrol.rong-edge.com/v1/config
+2024-02-01 11:44:56.329 TestDemo[98279:12220908] [RCC]-> [行号:148]请求 body: {
+    deviceId = MGFkMzU4NmNhNzVhYTdkMA;
+    model = "iPhone13,2";
+    network = wifi;
+    platform = iOS;
+    timestamp = 0;
+    version = "4.1.0";
+}
+2024-02-01 11:44:56.329 TestDemo[98279:12220908] [RCC]-> [行号:97]request cloud appkey: c9kqb3rdkbb8j,timestamp:0,token:none,url:https://cloudcontrol.rong-edge.com/v1/config
+[02-01 11:44:56.329] [D] [RC:L-cloud_info_fetch-T][IM]:"{""ptid"":""98279-259*"",""data"":""{\""timestamp\"":0,\""uri\"":\""https:\\\/\\\/cloudcontrol.rong-edge.com\\\/v1\\\/config\"",\""appKey\"":\""c9kqb3rdkbb8j\""}""}"
+2024-02-01 11:44:56.426 TestDemo[98279:12220927] [RCC]-> [行号:215]云控请求完成: <NSHTTPURLResponse: 0x2833d20e0> { URL: https://cloudcontrol.rong-edge.com/v1/config } { Status Code: 200, Headers <CFBasicHash 0x282673080 [0x1e31445d0]>{type = immutable dict, count = 3,
+entries =>
+	0 : Date = (
+    "Thu, 01 Feb 2024 03:44:56 GMT"
+)
+	1 : Content-Type = (
+    "application/json"
+)
+	2 : Content-Length = (
+    44
+)
+}
+ }
+[02-01 11:44:56.427] [D] [RC:L-cloud_info_fetch-R][IM]:"{""ptid"":""98279-18947"",""data"":""{\""info\"":{\""message\"":\""success\"",\""data\"":{},\""code\"":\""200\""},\""appKey\"":\""c9kqb3rdkbb8j\""}""}"
+2024-02-01 11:44:56.427 TestDemo[98279:12220927] [RCC]-> [行号:245]拉取云控成功: {
+}
+2024-02-01 11:44:56.428 TestDemo[98279:12220927] [RCC]-> [行号:219]更新 cc: (null)
+2024-02-01 11:44:56.428 TestDemo[98279:12220927] [RCC]-> [行号:230]更新 upload: (null)
+2024-02-01 11:44:56.428 TestDemo[98279:12220927] [RCC]-> [行号:241]更新 MRTR: (null)
+[02-01 11:44:58.171] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:44:58.172] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:44:58.172] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:58.173] [
+[02-01 11:44:58.173] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:44:58.174] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-16899","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:44:58.174] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:44:58.278] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-16899"}
+[02-01 11:44:58.279] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-31747"}
+[02-01 11:44:58.279] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-16899","private":"false"}
+[02-01 11:44:58.279] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-18947"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_4\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+2024-02-01 11:44:58.279 TestDemo[98279:12220927] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_4","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:44:58.280] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:44:58.280] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-31747"}
+[02-01 11:44:58.280] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-31747"}
+[02-01 11:44:58.281] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:44:58.281] [D] [RC:P-connect-T][IM]:{"ptid":"98279-16899","use":"t-tcpproxy-ucqa.rongcloud.net:8881;1;-1;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-2;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-3;0","cache":"qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-1;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-2;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-3;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:58.282] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-31747"}
+[02-01 11:44:58.284] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:44:58.284] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-16899"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":4,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_4\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:58.285 TestDemo[98279:12220926] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":4,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_4","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:58.306] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:17,nettype:1,error:0
+[02-01 11:44:58.306] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:44:58.306] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:44:58.306] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":0,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":17}
+[02-01 11:44:58.306] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-18947","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:44:58.306] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-16899","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+[02-01 11:44:58.306] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":21,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:44:58.307] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:44:58.307] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:44:58.307] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:44:58.308] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:44:58.308] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:44:58.308] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:44:58.309] [
+[02-01 11:44:58.309] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-11011"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":-1,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":17,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":4,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_4\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":4,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+[02-01 11:44:58.309] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:44:58.309] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-31747","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+2024-02-01 11:44:58.309 TestDemo[98279:12220924] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":-1,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":17,"ptc":1,"idx":0,"cr":[],"count":4,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_4","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":4,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:58.310] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:58.310] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-11011"",""data"":""{\""fg\"":1,\""dur\"":21,\""ec\"":0,\""count\"":4,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_4\""}""}"
+2024-02-01 11:44:58.310 TestDemo[98279:12220924] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":21,"ec":0,"count":4,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_4"}
+[02-01 11:44:58.310] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":4000}
+[02-01 11:44:58.311] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:44:58.312] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-11011"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-2,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":4,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_4\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:58.313 TestDemo[98279:12220924] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-2,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":4,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_4","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:44:58.314] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-11011"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-3,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":2,\""cr\"":[],\""count\"":4,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_4\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:44:58.315 TestDemo[98279:12220924] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-3,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":2,"cr":[],"count":4,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_4","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:02.311] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:45:02.312] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:45:02.313] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:02.313] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:45:02.313] [
+[02-01 11:45:02.313] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:45:02.313] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-32003","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:02.419] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-32003"}
+[02-01 11:45:02.420] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-32003","private":"false"}
+[02-01 11:45:02.420] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-6403"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_5\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+[02-01 11:45:02.420] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-31747"}
+2024-02-01 11:45:02.420 TestDemo[98279:12220919] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_5","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:45:02.421] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:45:02.421] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-31747"}
+[02-01 11:45:02.421] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-31747"}
+[02-01 11:45:02.422] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:45:02.422] [D] [RC:P-connect-T][IM]:{"ptid":"98279-32003","use":"t-tcpproxy-aliqa.rongcloud.net:8891;1;-2;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-3;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-4;0","cache":"qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-2;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-3;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-4;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:02.423] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-31747"}
+[02-01 11:45:02.425] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:45:02.425] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-32003"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":5,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_5\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:02.425 TestDemo[98279:12220929] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":5,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_5","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:02.485] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:57,nettype:1,error:0
+[02-01 11:45:02.485] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:45:02.486] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":0,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":57}
+[02-01 11:45:02.486] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":60,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:02.486] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-18947","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:45:02.486] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:45:02.486] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:0,nettype:1,error:-1
+[02-01 11:45:02.487] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:45:02.487] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-6403","code":-1,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":0,"race":false}
+[02-01 11:45:02.487] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:45:02.487] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:45:02.488] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:02.488] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:45:02.488] [
+[02-01 11:45:02.488] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-32003"",""data"":""{\""fg\"":1,\""dur\"":60,\""ec\"":0,\""count\"":5,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_5\""}""}"
+[02-01 11:45:02.488] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:45:02.488] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-31747","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+2024-02-01 11:45:02.489 TestDemo[98279:12220929] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":60,"ec":0,"count":5,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_5"}
+[02-01 11:45:02.489] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:02.490] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":8000}
+[02-01 11:45:02.490] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:02.491] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-32003"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":-2,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":57,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":5,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_5\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.248.90\"",\""ddu\"":3,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:02.491 TestDemo[98279:12220929] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":-2,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":57,"ptc":1,"idx":0,"cr":[],"count":5,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_5","net":"wifi","pr":0,"dip":"39.106.248.90","ddu":3,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:02.493] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-32003"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-3,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":1,\""cr\"":[],\""count\"":5,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_5\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:02.493 TestDemo[98279:12220929] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-3,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":1,"cr":[],"count":5,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_5","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:02.495] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-32003"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-4,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":2,\""cr\"":[],\""count\"":5,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_5\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:02.495 TestDemo[98279:12220929] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-4,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":0,"ptc":1,"idx":2,"cr":[],"count":5,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_5","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:10.491] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:45:10.492] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:45:10.492] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:10.492] [
+[02-01 11:45:10.492] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:45:10.493] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-31747","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:10.493] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:45:10.598] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-31747"}
+[02-01 11:45:10.599] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-31747","private":"false"}
+[02-01 11:45:10.599] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-5635"}
+[02-01 11:45:10.599] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-9475"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_6\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+2024-02-01 11:45:10.600 TestDemo[98279:12220923] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_6","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:45:10.600] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-5635"}
+[02-01 11:45:10.600] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-5635"}
+[02-01 11:45:10.600] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-5635"}
+[02-01 11:45:10.601] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:45:10.601] [D] [RC:P-connect-T][IM]:{"ptid":"98279-31747","use":"ssl-lvbu-rmtp.rongcloud.net:443;2;-3;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-4;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-5;0","cache":"qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-3;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-4;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-5;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:10.601] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-31747"}
+[02-01 11:45:10.603] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":6,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_6\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:10.604 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":6,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_6","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:10.605] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-31747"}
+[02-01 11:45:10.672] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:48,nettype:1,error:0
+[02-01 11:45:10.672] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:0,nettype:1,error:-1
+[02-01 11:45:10.673] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:45:10.673] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-31747","code":0,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":48}
+[02-01 11:45:10.673] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":0,"race":false}
+[02-01 11:45:10.673] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-8719","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+[02-01 11:45:10.675] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":-3,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":48,\""ptc\"":2,\""idx\"":0,\""cr\"":[],\""count\"":6,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_6\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.251.190\"",\""ddu\"":19,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:10.675 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":-3,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":48,"ptc":2,"idx":0,"cr":[],"count":6,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_6","net":"wifi","pr":0,"dip":"39.106.251.190","ddu":19,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:10.677] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-4,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":6,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_6\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:10.677 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-4,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":6,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_6","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:10.678] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":2,\""cr\"":[],\""count\"":6,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_6\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:10.679 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":2,"cr":[],"count":6,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_6","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:10.701] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":96,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:10.701] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:45:10.701] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-9475"",""data"":""{\""fg\"":1,\""dur\"":96,\""ec\"":0,\""count\"":6,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_6\""}""}"
+[02-01 11:45:10.701] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+2024-02-01 11:45:10.702 TestDemo[98279:12220923] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":96,"ec":0,"count":6,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_6"}
+[02-01 11:45:10.702] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:45:10.702] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:45:10.702] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:10.703] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:45:10.703] [
+[02-01 11:45:10.703] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:45:10.703] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-9475","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:10.704] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:10.704] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":16000}
+[02-01 11:45:10.705] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:23.587] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'uploading' content : ()
+[02-01 11:45:23.589] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:45:26.705] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:45:26.708] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:45:26.708] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:26.708] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:45:26.708] [
+[02-01 11:45:26.709] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:45:26.709] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-8719","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:26.812] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-8719"}
+[02-01 11:45:26.813] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-5635"}
+[02-01 11:45:26.813] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-9475"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_7\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+[02-01 11:45:26.813] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-8719","private":"false"}
+2024-02-01 11:45:26.813 TestDemo[98279:12220923] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_7","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:45:26.814] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-5635"}
+[02-01 11:45:26.814] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-5635"}
+[02-01 11:45:26.814] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-5635"}
+[02-01 11:45:26.815] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:45:26.816] [D] [RC:P-connect-T][IM]:{"ptid":"98279-8719","use":"t-tcpproxy-ucqa.rongcloud.net:8881;1;-4;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-5;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-6;0","cache":"qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-4;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-5;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-6;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:26.816] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-5635"}
+[02-01 11:45:26.818] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-5635"}
+[02-01 11:45:26.818] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-8719"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":7,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_7\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:26.819 TestDemo[98279:12221168] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":7,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_7","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:26.850] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:13,nettype:1,error:0
+[02-01 11:45:26.850] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:0,nettype:1,error:-1
+[02-01 11:45:26.850] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:45:26.851] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":0,"race":false}
+[02-01 11:45:26.850] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-8719","code":0,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":13}
+[02-01 11:45:26.851] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":31,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:26.851] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-27155","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:45:26.851] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:45:26.852] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:45:26.852] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:45:26.852] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:45:26.852] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""fg\"":1,\""dur\"":31,\""ec\"":0,\""count\"":7,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_7\""}""}"
+[02-01 11:45:26.852] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+2024-02-01 11:45:26.852 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":31,"ec":0,"count":7,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_7"}
+[02-01 11:45:26.853] [
+[02-01 11:45:26.853] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:45:26.853] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-8719","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:26.853] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:45:26.854] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:26.854] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":32000}
+[02-01 11:45:26.854] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":-4,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":13,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":7,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_7\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.251.190\"",\""ddu\"":18,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:26.855 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":-4,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":13,"ptc":1,"idx":0,"cr":[],"count":7,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_7","net":"wifi","pr":0,"dip":"39.106.251.190","ddu":18,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:26.855] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:26.857] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":7,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_7\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:26.857 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":0,"ptc":1,"idx":1,"cr":[],"count":7,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_7","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:26.859] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-5635"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-6,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":2,\""cr\"":[],\""count\"":7,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_7\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:26.859 TestDemo[98279:12220920] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-6,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":2,"cr":[],"count":7,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_7","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:30.117] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:45:36.513] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:45:42.918] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:45:49.223] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:45:55.245] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:45:58.855] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":13,"status":10}
+[02-01 11:45:58.856] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"10"}
+[02-01 11:45:58.856] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"10","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:58.857] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"10"}
+[02-01 11:45:58.857] [
+[02-01 11:45:58.857] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"10"}
+[02-01 11:45:58.857] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-67099","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:58.963] [D] [RC:L-reconnect-O][IM]:{"ptid":"98279-9475"}
+[02-01 11:45:58.964] [D] [RC:L-ENV-S][IM]:{"ptid":"98279-9475","private":"false"}
+[02-01 11:45:58.964] [D] [RC:IM-stats_cs-S][IM]:"{""ptid"":""98279-80159"",""data"":""{\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\"",\""spr\"":0,\""net\"":\""wifi\"",\""reason\"":0,\""cr\"":[],\""stage\"":1}""}"
+[02-01 11:45:58.964] [I] [RC:P-RCSetDeviceInfo-T][IM]:{"pid":"98279-27155"}
+2024-02-01 11:45:58.964 TestDemo[98279:12221309] [Dot]-> [行号:113]IM-stats_cs-S : {"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8","spr":0,"net":"wifi","reason":0,"cr":[],"stage":1}
+[02-01 11:45:58.964] [I] [RC:P-RCSetDeviceInfo-R][IM]:{"pid":"98279-27155"}
+[02-01 11:45:58.965] [I] [RC:P-RCSetEnvironment-T][IM]:{"pid":"98279-27155"}
+[02-01 11:45:58.965] [I] [RC:P-RCSetEnvironment-R][IM]:{"pid":"98279-27155"}
+[02-01 11:45:58.965] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]clientIp: 
+[02-01 11:45:58.966] [D] [RC:P-connect-T][IM]:{"ptid":"98279-9475","use":"t-tcpproxy-aliqa.rongcloud.net:8891;1;-5;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-6;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-7;0","cache":"qaquic.rongcloud.net:443;4;4;0,qaproxy.rongcloud.net:443;4;1;0,t-tcpproxy-aliqa.rongcloud.net:8891;1;-5;0,ssl-lvbu-rmtp.rongcloud.net:443;2;-6;0,t-tcpproxy-ucqa.rongcloud.net:8881;1;-7;0","clientIp":"","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:58.967] [I] [RC:P-RCConnectTo-T][IM]:{"pid":"98279-27155"}
+[02-01 11:45:58.968] [I] [RC:P-RCConnectTo-R][IM]:{"pid":"98279-27155"}
+[02-01 11:45:58.968] [D] [RC:IM-stats_navi-S][IM]:"{""ptid"":""98279-9475"",""data"":""{\""cache\"":1,\""cod\"":200,\""hos\"":\""\"",\""dur\"":0,\""ptc\"":1,\""idx\"":1,\""cr\"":[],\""count\"":8,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:58.969 TestDemo[98279:12220923] [Dot]-> [行号:113]IM-stats_navi-S : {"cache":1,"cod":200,"hos":"","dur":0,"ptc":1,"idx":1,"cr":[],"count":8,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:58.994] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-aliqa.rongcloud.net,port:8891,cost:10,nettype:1,error:0
+[02-01 11:45:58.994] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:t-tcpproxy-ucqa.rongcloud.net,port:8881,cost:0,nettype:1,error:-1
+[02-01 11:45:58.994] [D] [RC:RCConnectionService.mm][IM]:[RC:ConnectionService]L-collection-S,host:ssl-lvbu-rmtp.rongcloud.net,port:443,cost:0,nettype:1,error:-1
+[02-01 11:45:58.994] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-27155","code":0,"cmp":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"duration":10}
+[02-01 11:45:58.994] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-9475","code":-1,"cmp":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"duration":0,"race":false}
+[02-01 11:45:58.995] [D] [RC:P-connect-R][IM]:{"ptid":"98279-259*","status_code":30021,"user_id":"WYX123","native_code":0,"duration":26,"network":"wifi","bg":"false","proxy":"proxy:0,host:,port:-1,userName:,password:"}
+[02-01 11:45:58.995] [D] [RC:P-connect_entry-S][IM]:{"ptid":"98279-80159","code":-1,"cmp":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"duration":0,"race":false}
+[02-01 11:45:58.995] [D] [RC:P-connect-S][IM]:{"ptid":"98279-259*","status_code":30021,"native_code":0}
+[02-01 11:45:58.995] [D] [RC:RCConnectionState.m][IM]:[RC:ConnectionState]RCConnectionState defaultOnEvent default code : 30021
+[02-01 11:45:58.995] [D] [RC:L-connect-S][IM]:{"ptid":"98279-259*","last_status":10,"status":13}
+[02-01 11:45:58.996] [D] [RC:L-Call_notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","RCCallLibExtensionModule notifyConnectionStatusChanged":"13"}
+[02-01 11:45:58.996] [D] [RC:L-Call_didSignalNetworkChanged-T][RTC]:{"ptid":"98279-259*","status":"13","desc":"-[RCCallManager didSignalNetworkChanged:]"}
+[02-01 11:45:58.996] [D] [RC:IM-stats_cmp_rmtp-S][IM]:"{""ptid"":""98279-67099"",""data"":""{\""fg\"":1,\""dur\"":26,\""ec\"":0,\""count\"":8,\""cod\"":30021,\""cr\"":[],\""v\"":2,\""bid\"":\""cn.rongcloud.rtc.testdemo\"",\""spr\"":0,\""net\"":\""wifi\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\""}""}"
+[02-01 11:45:58.997] [
+2024-02-01 11:45:58.997 TestDemo[98279:12221335] [Dot]-> [行号:113]IM-stats_cmp_rmtp-S : {"fg":1,"dur":26,"ec":0,"count":8,"cod":30021,"cr":[],"v":2,"bid":"cn.rongcloud.rtc.testdemo","spr":0,"net":"wifi","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8"}
+[02-01 11:45:58.997] [D] [RC:CallPlus-notifyConnectionStatusChanged-O][RTC]:{"ptid":"98279-259*","status":"13"}
+[02-01 11:45:58.997] [D] [RC:L-Call_StateMachine-S][RTC]:{"ptid":"98279-80159","state":"RCCallIdleState","event":"NetworkSignalSuspend"}
+[02-01 11:45:58.997] [D] [RC:L-notifyConnectionStatusChanged-S][RTC]:{"ptid":"98279-259*","currentConnectionStatus":"13"}
+[02-01 11:45:58.998] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:58.998] [D] [RC:L-reconnect-S][IM]:{"ptid":"98279-259*","retry_after":64000}
+[02-01 11:45:58.999] [D] [RC:L-navi_info-S][IM]:{"ptid":"98279-259*","token":"mlmULhkniCeT4pckcqeqHOpoHnyfV0w5@mwga.rongcloud.net","navis":[]}
+[02-01 11:45:58.999] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-67099"",""data"":""{\""rct\"":1,\""cod\"":0,\""weight\"":-5,\""hos\"":\""t-tcpproxy-aliqa.rongcloud.net\"",\""dur\"":10,\""ptc\"":1,\""idx\"":0,\""cr\"":[],\""count\"":8,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""39.106.251.190\"",\""ddu\"":14,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:58.999 TestDemo[98279:12221335] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":0,"weight":-5,"hos":"t-tcpproxy-aliqa.rongcloud.net","dur":10,"ptc":1,"idx":0,"cr":[],"count":8,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8","net":"wifi","pr":0,"dip":"39.106.251.190","ddu":14,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:59.001] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-67099"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-6,\""hos\"":\""ssl-lvbu-rmtp.rongcloud.net\"",\""dur\"":0,\""ptc\"":2,\""idx\"":1,\""cr\"":[],\""count\"":8,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:59.001 TestDemo[98279:12221335] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-6,"hos":"ssl-lvbu-rmtp.rongcloud.net","dur":0,"ptc":2,"idx":1,"cr":[],"count":8,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:45:59.003] [D] [RC:IM-stats_cmp-S][IM]:"{""ptid"":""98279-67099"",""data"":""{\""rct\"":1,\""cod\"":-1,\""weight\"":-7,\""hos\"":\""t-tcpproxy-ucqa.rongcloud.net\"",\""dur\"":0,\""ptc\"":1,\""idx\"":2,\""cr\"":[],\""count\"":8,\""rsn\"":0,\""dh\"":[\""223.5.5.5\"",\""114.114.114.114\""],\""v\"":2,\""spr\"":0,\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\"",\""net\"":\""wifi\"",\""pr\"":0,\""dip\"":\""\"",\""ddu\"":0,\""dt\"":0,\""fg\"":1,\""bid\"":\""cn.rongcloud.rtc.testdemo\""}""}"
+2024-02-01 11:45:59.003 TestDemo[98279:12221335] [Dot]-> [行号:113]IM-stats_cmp-S : {"rct":1,"cod":-1,"weight":-7,"hos":"t-tcpproxy-ucqa.rongcloud.net","dur":0,"ptc":1,"idx":2,"cr":[],"count":8,"rsn":0,"dh":["223.5.5.5","114.114.114.114"],"v":2,"spr":0,"cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8","net":"wifi","pr":0,"dip":"","ddu":0,"dt":0,"fg":1,"bid":"cn.rongcloud.rtc.testdemo"}
+[02-01 11:46:01.250] [D] [RC:RCRTSLogService.m][IM]:[RC:RTSLogService][XX] fileType of 'zip' content : ()
+[02-01 11:46:03.871] [D] [RC:L-app_state-S][IM]:{"ptid":"98279-259*","status":"background"}
+[02-01 11:46:03.872] [D] [RC:IM-stats_stage_change-S][IM]:"{""ptid"":""98279-80159"",""data"":""{\""cs\"":\""b\"",\""os\"":\""f\"",\""cid\"":\""9A8E0235-1954-4571-84D1-13A099FE22AB_8\""}""}"
+2024-02-01 11:46:03.872 TestDemo[98279:12221309] [Dot]-> [行号:113]IM-stats_stage_change-S : {"cs":"b","os":"f","cid":"9A8E0235-1954-4571-84D1-13A099FE22AB_8"}
+[02-01 11:46:03.893] [D] [RC:L-app_state-S][IM]:{"ptid":"98279-259*","status":"terminate"}
+2024-02-01 11:46:03.893 TestDemo[98279:12220908] [RC:L-Call_GenerateCallLog-S]callId:<null>
+2024-02-01 11:46:03.893 TestDemo[98279:12220908] [RC:CallPlus-appWillTerminate-O]desc:app will terminate
+[02-01 11:46:03.893] [E] [RC:P-RCDisconnect-E][IM]:{"pid":"98279-9475","code":"30001"}
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:814] fuDestroyItem: handle = 1
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:820] fuDestroyAllItems called
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:857] fuOnDeviceLost called
+[02/01/24-11:46:03][thread 12220908][info][fuai_pipeline.cpp:779] ReleaseModel: FUAI_DeleteFaceProcessor
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:820] fuDestroyAllItems called
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:820] fuDestroyAllItems called
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:857] fuOnDeviceLost called
+[02/01/24-11:46:03][thread 12220908][info][CNamaSDK.cpp:456] fuDestroyLibData called

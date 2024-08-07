@@ -1,0 +1,441 @@
+bplist00Õ	
+_3mlmULhkniCdZZ2QTZjISdz+eKGpQxFGE@mwga.rongcloud.net_3mlmULhkniCcqOhDd4GkVNAyQOhOTcIwD@mwga.rongcloud.net_Tv2R1l39FObt5dK/aCixvBBk6L75To74sP6NgLhb9L10=@yfds.sg.rongnav.com;yfds.sg.rongcfg.com_3mlmULhkniCdfF7MjliQYMgyQOhOTcIwD@mwga.rongcloud.net_3mlmULhkniCe7RFySpdPw/AyQOhOTcIwD@mwga.rongcloud.net_D{
+  "kvStorage" : 1,
+  "chatroomMsg" : true,
+  "excludeLogTag" : null,
+  "serverAddr" : [
+    {
+      "weight" : 8,
+      "addr" : "t-tcpproxy-ucqa.rongcloud.net:8881",
+      "protocol" : 1
+    },
+    {
+      "weight" : 7,
+      "addr" : "t-tcpproxy-aliqa.rongcloud.net:8891",
+      "protocol" : 1
+    },
+    {
+      "weight" : 6,
+      "addr" : "123.57.155.29:8000",
+      "protocol" : 1
+    },
+    {
+      "weight" : 5,
+      "addr" : "ssl-lvbu-rmtp.rongcloud.net:443",
+      "protocol" : 2
+    },
+    {
+      "weight" : 4,
+      "addr" : "qaquic.rongcloud.net:443",
+      "protocol" : 4
+    },
+    {
+      "weight" : 3,
+      "addr" : "123.57.155.29:443",
+      "protocol" : 1
+    },
+    {
+      "weight" : 2,
+      "addr" : "ssl-lvbu-rmtp.rongcloud.net:443",
+      "protocol" : 2
+    },
+    {
+      "weight" : 1,
+      "addr" : "qaproxy.rongcloud.net:443",
+      "protocol" : 4
+    }
+  ],
+  "activeServer" : "stats-ucqa.rongcloud.net.db",
+  "openHttpDNS" : 0,
+  "openAnti" : 0,
+  "grpRRVer" : 3,
+  "openTranslation" : 1,
+  "location" : "{\"configure\":true,\"conversationTypes\":[1,2,3],\"maxParticipant\":5,\"refreshInterval\":5}",
+  "log" : {
+    "policy" : {
+      "level" : 4,
+      "itv" : 6,
+      "times" : 1
+    },
+    "addrs" : [
+      {
+        "weight" : 1,
+        "addr" : "logcollection.ronghub.com",
+        "protocol" : 12
+      }
+    ]
+  },
+  "ugMsg" : 1,
+  "ugDriven" : 3,
+  "historyMsg" : true,
+  "logServer" : "logcollection.ronghub.com.db",
+  "openGzip" : true,
+  "ossConfig" : "[{\"qiniu\":\"upload.qiniup.com\",\"p\":\"1\"}]",
+  "logSwitch" : 1,
+  "gifSize" : 4096,
+  "dc" : "ALIBJ2_QA",
+  "repairHisMsg" : 1,
+  "code" : 200,
+  "grpMsgLimit" : 30,
+  "aiAddr" : "ai-ucqa.rongcloud.net",
+  "translate" : {
+    "addrs" : [
+      {
+        "weight" : 1,
+        "addr" : "ai-aliqa1.rongcloud.net",
+        "protocol" : 11
+      },
+      {
+        "weight" : 3,
+        "addr" : "ai-aliqa.rongcloud.net",
+        "protocol" : 12
+      },
+      {
+        "weight" : 2,
+        "addr" : "ai-aliqa2.rongcloud.net",
+        "protocol" : 12
+      }
+    ]
+  },
+  "openUS" : 1,
+  "openSpeech" : 1,
+  "active" : {
+    "addrs" : [
+
+    ]
+  },
+  "jwt" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzA5MzQ1NzUwLCJ1c2VySWQiOiJXWVgxMjMifQ.Dz29Xn8kHPlaBcLHnMAU6KCt2xMPx_ZdKKr5v_cYaeY",
+  "voipCallInfo" : "{\"strategy\":1,\"callEngine\":[{\"engineType\":4,\"mediaServer\":\"https:\/\/rtc-info-test.rongcloud.net\",\"backupMediaServer\":[\"https:\/\/rtc-info-test.rongcloud.net\"],\"maxStreamCount\":30,\"wwise\":1,\"detectorManager\":\"https:\/\/rtc-info-test.rongcloud.net\",\"openSDES\":true},{\"engineType\":3,\"vendorKey\":\"c9kqb3rdkbb8j\",\"signKey\":\"2204f7c4-3b81-4c57-9914-8f44015a6734\",\"blinkCMPServer\":\"tcp:\/\/rtccmp.ronghub.com:80\",\"blinkSnifferServer\":\"tcp:\/\/rtccmp.ronghub.com:80\",\"blinkNavi\":\"https:\/\/rtcapi.ronghub.com\/nav\/websocketlist\"}]}",
+  "logPolicy" : "{\"url\":\"logcollection.ronghub.com\",\"level\":3,\"itv\":6,\"times\":1}",
+  "joinMChrm" : true,
+  "openMp" : 1,
+  "sesDriven" : 1,
+  "openCall" : 0,
+  "userId" : "WYX123",
+  "videoTimes" : 110
+}_þ{
+  "kvStorage" : 1,
+  "chatroomMsg" : true,
+  "excludeLogTag" : null,
+  "serverAddr" : [
+    {
+      "weight" : 8,
+      "addr" : "t-tcpproxy-ucqa.rongcloud.net:8881",
+      "protocol" : 1
+    },
+    {
+      "weight" : 7,
+      "addr" : "t-tcpproxy-aliqa.rongcloud.net:8891",
+      "protocol" : 1
+    },
+    {
+      "weight" : 6,
+      "addr" : "123.57.155.29:8000",
+      "protocol" : 1
+    },
+    {
+      "weight" : 5,
+      "addr" : "ssl-lvbu-rmtp.rongcloud.net:443",
+      "protocol" : 2
+    },
+    {
+      "weight" : 4,
+      "addr" : "qaquic.rongcloud.net:443",
+      "protocol" : 4
+    },
+    {
+      "weight" : 3,
+      "addr" : "123.57.155.29:443",
+      "protocol" : 1
+    },
+    {
+      "weight" : 2,
+      "addr" : "ssl-lvbu-rmtp.rongcloud.net:443",
+      "protocol" : 2
+    },
+    {
+      "weight" : 1,
+      "addr" : "qaproxy.rongcloud.net:443",
+      "protocol" : 4
+    }
+  ],
+  "activeServer" : "stats-ucqa.rongcloud.net.db",
+  "openHttpDNS" : 0,
+  "openAnti" : 0,
+  "grpRRVer" : 3,
+  "openTranslation" : 1,
+  "location" : "{\"configure\":true,\"conversationTypes\":[1,2,3],\"maxParticipant\":5,\"refreshInterval\":5}",
+  "log" : {
+    "policy" : {
+      "level" : 4,
+      "itv" : 6,
+      "times" : 1
+    },
+    "addrs" : [
+      {
+        "weight" : 1,
+        "addr" : "logcollection.ronghub.com",
+        "protocol" : 12
+      }
+    ]
+  },
+  "ugMsg" : 1,
+  "ugDriven" : 3,
+  "historyMsg" : true,
+  "logServer" : "logcollection.ronghub.com.db",
+  "openGzip" : true,
+  "ossConfig" : "[{\"qiniu\":\"upload.qiniup.com\",\"p\":\"1\"},{\"baidu\":\"bj.bcebos.com\",\"p\":\"2\"},{\"aliyun\":\"oss-accelerate.aliyuncs.com\",\"p\":\"3\"},{\"s3\":\"ronghub.com\",\"p\":\"4\"},{\"stc\":\"storage-sau.beemhub.com\",\"p\":\"5\"}]",
+  "logSwitch" : 1,
+  "gifSize" : 4096,
+  "dc" : "ALIBJ2_QA",
+  "repairHisMsg" : 1,
+  "code" : 200,
+  "grpMsgLimit" : 30,
+  "aiAddr" : "ai-ucqa.rongcloud.net",
+  "translate" : {
+    "addrs" : [
+      {
+        "weight" : 1,
+        "addr" : "ai-aliqa1.rongcloud.net",
+        "protocol" : 11
+      },
+      {
+        "weight" : 3,
+        "addr" : "ai-aliqa.rongcloud.net",
+        "protocol" : 12
+      },
+      {
+        "weight" : 2,
+        "addr" : "ai-aliqa2.rongcloud.net",
+        "protocol" : 12
+      }
+    ]
+  },
+  "openUS" : 1,
+  "openSpeech" : 1,
+  "active" : {
+    "addrs" : [
+
+    ]
+  },
+  "jwt" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzEzMjQ4MTUxLCJ1c2VySWQiOiJXWVgxMjMifQ.REV-0r3P5X2yF--JQlK5d1t3oALd3bLnS70nAp3AvKE",
+  "voipCallInfo" : "{\"strategy\":1,\"callEngine\":[{\"engineType\":4,\"mediaServer\":\"https:\/\/rtc-info-test.rongcloud.net\",\"backupMediaServer\":[\"https:\/\/rtc-info-test.rongcloud.net\"],\"maxStreamCount\":30,\"wwise\":1,\"detectorManager\":\"https:\/\/rtc-info-test.rongcloud.net\",\"openSDES\":true},{\"engineType\":3,\"vendorKey\":\"c9kqb3rdkbb8j\",\"signKey\":\"2204f7c4-3b81-4c57-9914-8f44015a6734\",\"blinkCMPServer\":\"tcp:\/\/rtccmp.ronghub.com:80\",\"blinkSnifferServer\":\"tcp:\/\/rtccmp.ronghub.com:80\",\"blinkNavi\":\"https:\/\/rtcapi.ronghub.com\/nav\/websocketlist\"}]}",
+  "logPolicy" : "{\"url\":\"logcollection.ronghub.com\",\"level\":3,\"itv\":6,\"times\":1}",
+  "joinMChrm" : true,
+  "openMp" : 1,
+  "sesDriven" : 1,
+  "openCall" : 0,
+  "userId" : "WYX123",
+  "videoTimes" : 110
+}_	¶{
+  "kvStorage" : 1,
+  "chatroomMsg" : true,
+  "excludeLogTag" : null,
+  "serverAddr" : [
+    {
+      "weight" : 11,
+      "addr" : "quic-rmtp-d.sg-light-edge.com:443",
+      "protocol" : 4
+    },
+    {
+      "weight" : 10,
+      "addr" : "quic-rmtp-f.sg-light-edge.com:443",
+      "protocol" : 4
+    },
+    {
+      "weight" : 9,
+      "addr" : "quic-rmtp-e.sg-light-edge.com:443",
+      "protocol" : 4
+    },
+    {
+      "weight" : 8,
+      "addr" : "tls-rmtp-d.sg-light-edge.com:8872",
+      "protocol" : 2
+    },
+    {
+      "weight" : 7,
+      "addr" : "tls-rmtp-f.sg-light-edge.com:8872",
+      "protocol" : 2
+    },
+    {
+      "weight" : 6,
+      "addr" : "tls-rmtp-e.sg-light-edge.com:8872",
+      "protocol" : 2
+    },
+    {
+      "weight" : 5,
+      "addr" : "8.222.174.170:443",
+      "protocol" : 1
+    },
+    {
+      "weight" : 4,
+      "addr" : "rmtp-d.sg-light-edge.com:8882",
+      "protocol" : 1
+    },
+    {
+      "weight" : 3,
+      "addr" : "rmtp-f.sg-light-edge.com:8882",
+      "protocol" : 1
+    },
+    {
+      "weight" : 2,
+      "addr" : "rmtp-e.sg-light-edge.com:8882",
+      "protocol" : 1
+    },
+    {
+      "weight" : 1,
+      "addr" : "8.222.174.170:8000",
+      "protocol" : 1
+    }
+  ],
+  "activeServer" : "stats.sg-light-edge.com",
+  "openHttpDNS" : 0,
+  "openAnti" : 0,
+  "grpRRVer" : 0,
+  "openTranslation" : 1,
+  "location" : null,
+  "log" : null,
+  "ugMsg" : 1,
+  "historyMsg" : true,
+  "logServer" : null,
+  "openGzip" : false,
+  "ossConfig" : "[{\"s3\":\"ronghub.com\",\"p\":\"1\"},{\"aliyun\":\"oss-accelerate.aliyuncs.com\",\"p\":\"2\"},{\"qiniu\":\"upload.qiniup.com\",\"p\":\"3\"}]",
+  "logSwitch" : 1,
+  "gifSize" : 3072,
+  "dc" : "ALISG",
+  "repairHisMsg" : 0,
+  "code" : 200,
+  "grpMsgLimit" : 0,
+  "aiAddr" : "ai.sg-light-edge.com",
+  "translate" : {
+    "addrs" : null
+  },
+  "openUS" : 1,
+  "openSpeech" : 0,
+  "active" : {
+    "addrs" : null
+  },
+  "jwt" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiI4dzdqdjRxYjgzNDB5IiwiZXhwIjoxNzEzMTY5NTU3LCJ1c2VySWQiOiJXWVgxMjMifQ.8PM4vcV7rjrI5KD8EVrjywQ9RlxM5g4s29C1hYN6vLs",
+  "voipCallInfo" : "{\"strategy\":1,\"callEngine\":[{\"engineType\":4,\"detectorManager\":\"https:\/\/rtc-media-paas.rong-rtc.com\",\"mediaServer\":\"https:\/\/rtc-media-paas.rong-rtc.com\",\"maxStreamCount\":30}]}",
+  "logPolicy" : "{\"url\":\"logcollection.ronghub.com\",\"level\":1,\"itv\":6,\"times\":5}",
+  "joinMChrm" : false,
+  "openMp" : 0,
+  "openCall" : 1,
+  "userId" : "WYX123",
+  "videoTimes" : 120
+}_÷{"code":200,"dc":"ALIBJ2_QA","userId":"WYX123","ossConfig":"[{\"qiniu\":\"upload.qiniup.com\",\"p\":\"1\"},{\"baidu\":\"bj.bcebos.com\",\"p\":\"2\"},{\"aliyun\":\"oss-accelerate.aliyuncs.com\",\"p\":\"3\"},{\"s3\":\"ronghub.com\",\"p\":\"4\"},{\"stc\":\"storage-sau.beemhub.com\",\"p\":\"5\"}]","gifSize":4096,"repairHisMsg":1,"openGzip":true,"logSwitch":1,"openTranslation":1,"openSpeech":1,"openUS":1,"openMp":1,"openHttpDNS":0,"openCall":0,"openAnti":0,"ugMsg":1,"ugDriven":3,"kvStorage":1,"videoTimes":110,"chatroomMsg":true,"joinMChrm":true,"grpMsgLimit":30,"grpRRVer":3,"logPolicy":"{\"url\":\"logcollection.ronghub.com\",\"level\":3,\"itv\":6,\"times\":1}","subDriven":1,"location":"{\"configure\":true,\"conversationTypes\":[1,2,3],\"maxParticipant\":5,\"refreshInterval\":5}","historyMsg":true,"aiAddr":"ai-ucqa.rongcloud.net","translate":{"addrs":[{"addr":"ai-aliqa1.rongcloud.net","protocol":11,"weight":1},{"addr":"ai-aliqa.rongcloud.net","protocol":12,"weight":3},{"addr":"ai-aliqa2.rongcloud.net","protocol":12,"weight":2}]},"sesDriven":1,"activeServer":"stats-ucqa.rongcloud.net.db","active":{"addrs":[]},"serverAddr":[{"addr":"t-tcpproxy-ucqa.rongcloud.net:8881","protocol":1,"weight":8},{"addr":"t-tcpproxy-aliqa.rongcloud.net:8891","protocol":1,"weight":7},{"addr":"123.57.155.29:8000","protocol":1,"weight":6},{"addr":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"weight":5},{"addr":"qaquic.rongcloud.net:443","protocol":4,"weight":4},{"addr":"123.57.155.29:443","protocol":1,"weight":3},{"addr":"ssl-lvbu-rmtp.rongcloud.net:443","protocol":2,"weight":2},{"addr":"qaproxy.rongcloud.net:443","protocol":4,"weight":1}],"log":{"policy":{"level":4,"itv":6,"times":1},"addrs":[{"addr":"logcollection.ronghub.com","protocol":12,"weight":1}]},"excludeLogTag":null,"logServer":"logcollection.ronghub.com.db","voipCallInfo":"{\"strategy\":1,\"callEngine\":[{\"engineType\":4,\"mediaServer\":\"https://rtc-info-test.rongcloud.net\",\"backupMediaServer\":[\"https://rtc-info-test.rongcloud.net\"],\"maxStreamCount\":30,\"wwise\":1,\"detectorManager\":\"https://rtc-info-test.rongcloud.net\",\"openSDES\":true}]}","jwt":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzEzMjQ4NDU4LCJ1c2VySWQiOiJXWVgxMjMifQ._u2o4i9zqbcXEMLsZL5u7-Uk3U--_7cJsuHqPF5JsPo"}_{
+  "kvStorage" : 1,
+  "chatroomMsg" : true,
+  "excludeLogTag" : null,
+  "serverAddr" : [
+    {
+      "weight" : 8,
+      "addr" : "t-tcpproxy-ucqa.rongcloud.net:8881",
+      "protocol" : 1
+    },
+    {
+      "weight" : 7,
+      "addr" : "t-tcpproxy-aliqa.rongcloud.net:8891",
+      "protocol" : 1
+    },
+    {
+      "weight" : 6,
+      "addr" : "123.57.155.29:8000",
+      "protocol" : 1
+    },
+    {
+      "weight" : 5,
+      "addr" : "ssl-lvbu-rmtp.rongcloud.net:443",
+      "protocol" : 2
+    },
+    {
+      "weight" : 4,
+      "addr" : "qaquic.rongcloud.net:443",
+      "protocol" : 4
+    },
+    {
+      "weight" : 3,
+      "addr" : "123.57.155.29:443",
+      "protocol" : 1
+    },
+    {
+      "weight" : 2,
+      "addr" : "ssl-lvbu-rmtp.rongcloud.net:443",
+      "protocol" : 2
+    },
+    {
+      "weight" : 1,
+      "addr" : "qaproxy.rongcloud.net:443",
+      "protocol" : 4
+    }
+  ],
+  "activeServer" : "stats-ucqa.rongcloud.net.db",
+  "openHttpDNS" : 0,
+  "openAnti" : 0,
+  "grpRRVer" : 3,
+  "openTranslation" : 1,
+  "location" : "{\"configure\":true,\"conversationTypes\":[1,2,3],\"maxParticipant\":5,\"refreshInterval\":5}",
+  "log" : {
+    "policy" : {
+      "level" : 4,
+      "itv" : 6,
+      "times" : 1
+    },
+    "addrs" : [
+      {
+        "weight" : 1,
+        "addr" : "logcollection.ronghub.com",
+        "protocol" : 12
+      }
+    ]
+  },
+  "ugMsg" : 1,
+  "ugDriven" : 3,
+  "historyMsg" : true,
+  "logServer" : "logcollection.ronghub.com.db",
+  "openGzip" : true,
+  "subDriven" : 1,
+  "ossConfig" : "[{\"qiniu\":\"upload.qiniup.com\",\"p\":\"1\"},{\"baidu\":\"bj.bcebos.com\",\"p\":\"2\"},{\"aliyun\":\"oss-accelerate.aliyuncs.com\",\"p\":\"3\"},{\"s3\":\"ronghub.com\",\"p\":\"4\"},{\"stc\":\"storage-sau.beemhub.com\",\"p\":\"5\"}]",
+  "logSwitch" : 1,
+  "gifSize" : 4096,
+  "dc" : "ALIBJ2_QA",
+  "repairHisMsg" : 1,
+  "code" : 200,
+  "grpMsgLimit" : 30,
+  "aiAddr" : "ai-ucqa.rongcloud.net",
+  "translate" : {
+    "addrs" : [
+      {
+        "weight" : 1,
+        "addr" : "ai-aliqa1.rongcloud.net",
+        "protocol" : 11
+      },
+      {
+        "weight" : 3,
+        "addr" : "ai-aliqa.rongcloud.net",
+        "protocol" : 12
+      },
+      {
+        "weight" : 2,
+        "addr" : "ai-aliqa2.rongcloud.net",
+        "protocol" : 12
+      }
+    ]
+  },
+  "openUS" : 1,
+  "openSpeech" : 1,
+  "active" : {
+    "addrs" : [
+
+    ]
+  },
+  "jwt" : "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhcHBLZXkiOiJjOWtxYjNyZGtiYjhqIiwiZXhwIjoxNzEzMjQ4NjkxLCJ1c2VySWQiOiJXWVgxMjMifQ.5hXSxIp7jBhYQq94A5-FDkJBKcKlGSrvdZ1Ibmwydt0",
+  "voipCallInfo" : "{\"strategy\":1,\"callEngine\":[{\"engineType\":4,\"mediaServer\":\"https:\/\/rtc-info-test.rongcloud.net\",\"backupMediaServer\":[\"https:\/\/rtc-info-test.rongcloud.net\"],\"maxStreamCount\":30,\"wwise\":1,\"detectorManager\":\"https:\/\/rtc-info-test.rongcloud.net\",\"openSDES\":true},{\"engineType\":3,\"vendorKey\":\"c9kqb3rdkbb8j\",\"signKey\":\"2204f7c4-3b81-4c57-9914-8f44015a6734\",\"blinkCMPServer\":\"tcp:\/\/rtccmp.ronghub.com:80\",\"blinkSnifferServer\":\"tcp:\/\/rtccmp.ronghub.com:80\",\"blinkNavi\":\"https:\/\/rtcapi.ronghub.com\/nav\/websocketlist\"}]}",
+  "logPolicy" : "{\"url\":\"logcollection.ronghub.com\",\"level\":3,\"itv\":6,\"times\":1}",
+  "joinMChrm" : true,
+  "openMp" : 1,
+  "sesDriven" : 1,
+  "openCall" : 0,
+  "userId" : "WYX123",
+  "videoTimes" : 110
+}   I  ÖBŠŒ$F-A                           :V
